@@ -1,4 +1,20 @@
 ### Hi there 👋
+```js
+const Losto = {
+  pronouns: "he" | "him",
+  code: [Javascript,Typescript,HTML,CSS,Python],
+  tools: [React, Redux, Node, Storybook, Styled-Components],
+}
+```
+
+![Losto GitHub stats](https://github-readme-stats.vercel.app/api?username=Lostovayne&show_icons=true&theme=radical)
+
+
+
+
+
+
+
 
 <!--
 **Lostovayne/Lostovayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
