@@ -60,7 +60,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,aws,bootstrap,css,discord,docker,express,figma,firebase,bash,github,html,java,js,linux,md,materialui,mongodb,mysql,postgres,supabase,react,nextjs,nestjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,aws,bootstrap,css,discord,docker,express,figma,firebase,bash,github,html,java,js,linux,md,materialui,mongodb,mysql,postgres,supabase,react,nextjs,nestjs,nodejs,postman,py,redux,tailwind,ts,astro,bash,flutter,jest,mongodb,prisma,supabase,sequelize vscode,vite&perline=14" />
   </a>
 </p>
 
