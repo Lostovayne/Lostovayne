@@ -25,7 +25,8 @@
 </div>
 
 
-<!--Intro start-->
+
+  <!--Intro start-->
 🔭 Actualmente estoy trabajando en Reactjs, Nodejs, Mysql, Mongodb, Express y Tailwindcss.
 
 🌱 Actualmente estoy aprendiendo a unir múltiples pilas de tecnologías para aplicaciones escalables.
@@ -33,7 +34,15 @@
 ☁️ Tengo un gran interés en la computación en la nube. Por lo tanto, estoy aprendiendo AWS.
 
 💬 Pregúntame sobre AWS, react, react-native, nodejs, mongoDB, Nextjs, Tailwind css.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lostovayne&layout=compact)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lostovayne&repo=servidor-web-con-node-y-pagina-heroes-de-react)](https://github.com/Lostovayne/servidor-web-con-node-y-pagina-heroes-de-react)
+
 <!--Intro end-->
+
+
+
+
 
 
 
@@ -70,6 +79,8 @@
 Escribir buen código es como componer una sinfonía: requiere de habilidad, paciencia y atención al detalle, pero el resultado final es una obra maestra que perdura en el tiempo y es admirada por todos
   
 </p>
+
+
 
 
 <!--horizontal divider(gradiant)-->
