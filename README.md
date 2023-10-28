@@ -34,10 +34,6 @@
 ☁️ Tengo un gran interés en la computación en la nube. Por lo tanto, estoy aprendiendo AWS.
 
 💬 Pregúntame sobre AWS, react, react-native, nodejs, mongoDB, Nextjs, Tailwind css.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lostovayne&layout=compact)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lostovayne&repo=servidor-web-con-node-y-pagina-heroes-de-react)](https://github.com/Lostovayne/servidor-web-con-node-y-pagina-heroes-de-react)
-
 <!--Intro end-->
 
 
