@@ -31,9 +31,11 @@
 
 🌱 Actualmente estoy aprendiendo a unir múltiples pilas de tecnologías para aplicaciones escalables.
 
-☁️ Tengo un gran interés en la computación en la nube. Por lo tanto, estoy aprendiendo AWS.
+☁️ Tengo un gran interés en Next 13/14.
 
-💬 Pregúntame sobre AWS, react, react-native, nodejs, mongoDB, Nextjs, Tailwind css.
+💬Preguntame lo que quieras saber sobre mi experiencia en React, Nodejs, Docker, testing o Typescript.
+
+☁️ Me apaciona el Frontend y crear diseños, pero sé que una casa necesita una buena base, por lo cual me estoy dedicando a mejorar la arquitectura que me permitira edificar mis diseños.
 <!--Intro end-->
 
 
