@@ -29,6 +29,8 @@
   <!--Intro start-->
 
 
+### ¡Hola! 👋 Soy Franko ✨
+
 💻 Actualmente estoy trabajando en proyectos utilizando tecnologías como React.js, Next.js 13/14, Node.js, Prisma, TypeScript, Docker y Tailwind CSS.
 
 🌱 También estoy explorando el uso de los Server Components y cómo pueden mejorar la eficiencia y escalabilidad en mis aplicaciones.
@@ -37,21 +39,21 @@
 
 💪 Algunas de las tecnologías y enfoques que suelo utilizar en mis proyectos incluyen:
 
-- **Prisma**: Un ORM moderno y poderoso que me permite trabajar de manera eficiente con bases de datos relacionales.
+- ✔️ **Prisma**: Un ORM moderno y poderoso que me permite trabajar de manera eficiente con bases de datos relacionales.
 
-- **TypeScript**: Utilizo TypeScript tanto en el backend como en el frontend para aprovechar las ventajas de la tipificación estática y mejorar la calidad y mantenibilidad del código.
+- ✔️ **TypeScript**: Utilizo TypeScript tanto en el backend como en el frontend para aprovechar las ventajas de la tipificación estática y mejorar la calidad y mantenibilidad del código.
 
-- **Next.js 13/14**: Me encanta utilizar Next.js en mis proyectos para construir aplicaciones web rápidas y escalables. Estoy emocionado por las nuevas características y mejoras que ofrece la versión 13/14.
+- ✔️ **Next.js 13/14**: Me encanta utilizar Next.js en mis proyectos para construir aplicaciones web rápidas y escalables. Estoy emocionado por las nuevas características y mejoras que ofrece la versión 13/14.
 
-- **Docker**: Utilizo Docker para crear entornos de desarrollo consistentes y facilitar la implementación de mis aplicaciones en diferentes entornos.
+- ✔️ **Docker**: Utilizo Docker para crear entornos de desarrollo consistentes y facilitar la implementación de mis aplicaciones en diferentes entornos.
 
-- **Tailwind CSS**: Me encanta utilizar Tailwind CSS para crear interfaces hermosas y responsivas de manera eficiente.
+- ✔️ **Tailwind CSS**: Me encanta utilizar Tailwind CSS para crear interfaces hermosas y responsivas de manera eficiente.
 
 🌟 Me apasiona crear aplicaciones robustas y de alta calidad, y siempre busco mejorar mis habilidades y aprender nuevas tecnologías.
 
 ☕️ Además, me gusta tomar mucho café para mantenerme productivo mientras trabajo en mis proyectos.
 
-¡Gracias por visitar mi Github! No dudes en contactarme si tienes alguna pregunta o si te gustaría colaborar en algún proyecto.
+¡Gracias por visitar mi Github! No dudes en contactarme si tienes alguna pregunta o si te gustaría colaborar en algún proyecto. ¡Estoy emocionado por lo que el futuro tiene reservado! 🚀✨
 
 <!--Intro end-->
 
@@ -84,7 +86,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,css,discord,docker,express,figma,firebase,bash,emotion,github,html,js,linux,md,materialui,mongodb,mysql,postgres,supabase,react,nextjs,nodejs,postman,py,redux,tailwind,ts,astro,bash,jest,mongodb,prisma,supabase,sequelize vscode,vite&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,css,discord,docker,express,figma,firebase,bash,emotion,github,html,js,linux,md,materialui,mongodb,mysql,postgres,supabase,react,nextjs,nodejs,postman,py,redux,tailwind,ts,astro,bash,jest,prisma,sequelize vscode,vite&perline=14" />
   </a>
 </p>
 
