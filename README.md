@@ -92,7 +92,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,appwrite,kubernetes,linkedin,nestjs,planetscale,powershell,sass,sqlite,vercel,vite,vscode,windicss,vite" />
+    <img src="https://skillicons.dev/icons?i=vscode,appwrite,kubernetes,linkedin,nestjs,planetscale,powershell,sass,sqlite,vercel,vscode,windicss,vite" />
   </a>
 </p>
 
