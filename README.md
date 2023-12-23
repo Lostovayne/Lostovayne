@@ -86,7 +86,13 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,css,discord,docker,express,figma,firebase,bash,emotion,github,html,js,linux,md,materialui,mysql,postgres,react,nextjs,nodejs,postman,py,redux,tailwind,ts,astro,bash,jest,prisma,sequelize vscode,appwrite,kubernetes,linkedin,nestjs,planetscale,powershell,sass,sqlite,vercel,vite,vscode,windicss,vite&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,css,discord,docker,express,figma,firebase,bash,emotion,github,html,js,linux,md,materialui,mysql,postgres,react,nextjs,nodejs,postman,py,redux,tailwind,ts,astro,bash,jest,prisma,sequelize&perline=16" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,appwrite,kubernetes,linkedin,nestjs,planetscale,powershell,sass,sqlite,vercel,vite,vscode,windicss,vite" />
   </a>
 </p>
 
