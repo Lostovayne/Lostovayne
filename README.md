@@ -27,15 +27,32 @@
 
 
   <!--Intro start-->
-🔭 Actualmente estoy trabajando en Reactjs, Nodejs, Mysql, Mongodb, Express y Tailwindcss.
 
-🌱 Actualmente estoy aprendiendo a unir múltiples pilas de tecnologías para aplicaciones escalables.
 
-☁️ Tengo un gran interés en Next 13/14.
+💻 Actualmente estoy trabajando en proyectos utilizando tecnologías como React.js, Next.js 13/14, Node.js, Prisma, TypeScript, Docker y Tailwind CSS.
 
-💬Preguntame lo que quieras saber sobre mi experiencia en React, Nodejs, Docker, testing o Typescript.
+🌱 También estoy explorando el uso de los Server Components y cómo pueden mejorar la eficiencia y escalabilidad en mis aplicaciones.
 
-☁️ Me apaciona el Frontend y crear diseños, pero sé que una casa necesita una buena base, por lo cual me estoy dedicando a mejorar la arquitectura que me permitira edificar mis diseños.
+💼 Tengo experiencia en el desarrollo de aplicaciones web y móviles utilizando un enfoque de código limpio y reutilizable. Me apasiona la creación de arquitecturas escalables y sostenibles.
+
+💪 Algunas de las tecnologías y enfoques que suelo utilizar en mis proyectos incluyen:
+
+- **Prisma**: Un ORM moderno y poderoso que me permite trabajar de manera eficiente con bases de datos relacionales.
+
+- **TypeScript**: Utilizo TypeScript tanto en el backend como en el frontend para aprovechar las ventajas de la tipificación estática y mejorar la calidad y mantenibilidad del código.
+
+- **Next.js 13/14**: Me encanta utilizar Next.js en mis proyectos para construir aplicaciones web rápidas y escalables. Estoy emocionado por las nuevas características y mejoras que ofrece la versión 13/14.
+
+- **Docker**: Utilizo Docker para crear entornos de desarrollo consistentes y facilitar la implementación de mis aplicaciones en diferentes entornos.
+
+- **Tailwind CSS**: Me encanta utilizar Tailwind CSS para crear interfaces hermosas y responsivas de manera eficiente.
+
+🌟 Me apasiona crear aplicaciones robustas y de alta calidad, y siempre busco mejorar mis habilidades y aprender nuevas tecnologías.
+
+☕️ Además, me gusta tomar mucho café para mantenerme productivo mientras trabajo en mis proyectos.
+
+¡Gracias por visitar mi Github! No dudes en contactarme si tienes alguna pregunta o si te gustaría colaborar en algún proyecto.
+
 <!--Intro end-->
 
 
