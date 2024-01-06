@@ -31,9 +31,13 @@
 
 ### ¡Hola! 👋 Soy Franko ✨
 
-💻 Actualmente estoy trabajando en proyectos utilizando tecnologías como React.js, Next.js 13/14, Node.js, Prisma, TypeScript, Docker y Tailwind CSS.
+<div style={{display:flex;}} >
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Anatomical%20Heart.png" alt="Anatomical Heart" width="25" height="25" />
+  Actualmente estoy trabajando en proyectos utilizando tecnologías como React.js, Next.js 13/14, Node.js, Prisma, TypeScript, Docker y Tailwind CSS.
+</div>
 
-🌱 También estoy explorando el uso de los Server Components y cómo pueden mejorar la eficiencia y escalabilidad en mis aplicaciones.
+
+ También estoy explorando el uso de los Server Components y cómo pueden mejorar la eficiencia y escalabilidad en mis aplicaciones.
 
 💼 Tengo experiencia en el desarrollo de aplicaciones web y móviles utilizando un enfoque de código limpio y reutilizable. Me apasiona la creación de arquitecturas escalables y sostenibles.
 
