@@ -42,23 +42,21 @@
 💼 Tengo experiencia en el desarrollo de aplicaciones web y móviles utilizando un enfoque de código limpio y reutilizable. Me apasiona la creación de arquitecturas escalables y sostenibles.
 
 💪 Algunas de las tecnologías y enfoques que suelo utilizar en mis proyectos incluyen:
-
 - ✔️ **Prisma**: Un ORM moderno y poderoso que me permite trabajar de manera eficiente con bases de datos relacionales.
-
 - ✔️ **TypeScript**: Utilizo TypeScript tanto en el backend como en el frontend para aprovechar las ventajas de la tipificación estática y mejorar la calidad y mantenibilidad del código.
-
 - ✔️ **Next.js 13/14**: Me encanta utilizar Next.js en mis proyectos para construir aplicaciones web rápidas y escalables. Estoy emocionado por las nuevas características y mejoras que ofrece la versión 13/14.
-
 - ✔️ **Docker**: Utilizo Docker para crear entornos de desarrollo consistentes y facilitar la implementación de mis aplicaciones en diferentes entornos.
-
 - ✔️ **Tailwind CSS**: Me encanta utilizar Tailwind CSS para crear interfaces hermosas y responsivas de manera eficiente.
 
-🌟 Me apasiona crear aplicaciones robustas y de alta calidad, y siempre busco mejorar mis habilidades y aprender nuevas tecnologías.
-
-☕️ Además, me gusta tomar mucho café para mantenerme productivo mientras trabajo en mis proyectos.
-
-¡Gracias por visitar mi Github! No dudes en contactarme si tienes alguna pregunta o si te gustaría colaborar en algún proyecto. ¡Estoy emocionado por lo que el futuro tiene reservado! 🚀✨
-
+🐳 Mis últimos proyectos
+- Tienda de Ropa Completa + Sistema de Pagos : [Repositorio](https://github.com/Lostovayne/Tienda-de-Ropa-Tesla-Shop-usando-Next-14) [Demo](https://github.com/Lostovayne/Tienda-de-Ropa-Tesla-Shop-usando-Next-14)
+- Manejo Avanzado de AuthJs + Server Actions: [Repositorio](https://github.com/Lostovayne/Next-Auth-V5-Usando-Next-14-Avanzado) [Demo](https://github.com/Lostovayne/Next-Auth-V5-Usando-Next-14-Avanzado)
+- Pagina de Anime con Next14 + Consumo de Api: [Repositorio](https://github.com/Lostovayne/Next-Auth-V5-Usando-Next-14-Avanzado) [Demo](anime-next14.vercel.app)
+- React + Openai + Distintos Modelos GPT: [Repositorio](https://github.com/Lostovayne/React-usando-React-Router-dom-Tailwind-Typescript-e-integraciones-de-Openai-para-modelos) [Demo](react-gpt-weld.vercel.app/) 
+- Clon de Twitter + Next14 Typescript  : [Repositorio](https://github.com/Lostovayne/Clon-de-Twitter-con-Next-14) [Demo](clon-de-twitter.vercel.app)
+- Autenticacion con Node + Arquitectura Limpia: [Repositorio](https://github.com/Lostovayne/Sistema-de-Autenticacion-usando-Node-Ts-y-Clean-Arquitecture)
+- Clon de Notion + Auth con Clerk y ShadCn: [Repositorio](https://github.com/Lostovayne/Clon-de-Notion-con-Next14-Tailwind-Typescript)
+- Servidor Web + Rest Clean : [Repositorio](https://github.com/Lostovayne/Servidor-Rest-y-web-con-posgresql-prisma-Nodejs-Typescript)
 <!--Intro end-->
 
 
