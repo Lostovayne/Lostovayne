@@ -62,7 +62,7 @@
 🐳 Enfoque a Tecnologias 
 - Manejo Avanzado de Zustand:
 - Manejo Avanzado de React : [Repositorio](https://github.com/Lostovayne/React-Avanzado-Patrones-de-Componentes-)
-- Manejo Avanzado de Node:
+- Manejo Avanzado de Node : [Repositorio](https://github.com/Lostovayne/Autenticacion-usando-Node-con-Typescript-y-Mongodb-con-Arquitectura)
 - Bases e Intermedio React Native:
 - Uso Intermedio de PosgreSql:
 - Gestor de Estado Tanstack Query:
