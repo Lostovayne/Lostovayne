@@ -57,12 +57,16 @@
 - Autenticacion con Node + Arquitectura Limpia: [Repositorio](https://github.com/Lostovayne/Sistema-de-Autenticacion-usando-Node-Ts-y-Clean-Arquitecture)
 - Clon de Notion + Auth con Clerk y ShadCn: [Repositorio](https://github.com/Lostovayne/Clon-de-Notion-con-Next14-Tailwind-Typescript)
 - Servidor Web + Rest Clean : [Repositorio](https://github.com/Lostovayne/Servidor-Rest-y-web-con-posgresql-prisma-Nodejs-Typescript)
-<!--Intro end-->
 
-
-
-
-
+🐳 Enfoque a Tecnologias 
+- Manejo Avanzado de Zustand:
+- Manejo Avanzado de React:
+- Manejo Avanzado de Node:
+- Bases e Intermedio React Native:
+- Uso Intermedio de PosgreSql:
+- Gestor de Estado Tanstack Query:
+- React + Socket-Io:
+- Proximamente Manejo de Nest..
 
 
 <!--- stats & Trophy (start) -->
