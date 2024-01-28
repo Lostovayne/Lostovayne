@@ -58,6 +58,7 @@
 - Autenticacion con Node + Arquitectura Limpia: [Repositorio](https://github.com/Lostovayne/Sistema-de-Autenticacion-usando-Node-Ts-y-Clean-Arquitecture)
 - Clon de Notion + Auth con Clerk y ShadCn: [Repositorio](https://github.com/Lostovayne/Clon-de-Notion-con-Next14-Tailwind-Typescript)
 - Servidor Web + Rest Clean : [Repositorio](https://github.com/Lostovayne/Servidor-Rest-y-web-con-posgresql-prisma-Nodejs-Typescript)
+- Servidor Rest + Mongodb + Docker: [Repositorio](https://github.com/Lostovayne/Autenticacion-usando-Node-con-Typescript-y-Mongodb-con-Arquitectura)
 
 🐳 Enfoque a Tecnologias 
 - Manejo Avanzado de Zustand: [Repositorio](https://github.com/Lostovayne/Dashboard-usando-Zustand-como-gestor-de-estado-en-React)
