@@ -59,6 +59,7 @@
 - Clon de Notion + Auth con Clerk y ShadCn: [Repositorio](https://github.com/Lostovayne/Clon-de-Notion-con-Next14-Tailwind-Typescript)
 - Servidor Web + Rest Clean : [Repositorio](https://github.com/Lostovayne/Servidor-Rest-y-web-con-posgresql-prisma-Nodejs-Typescript)
 - Servidor Rest + Mongodb + Docker: [Repositorio](https://github.com/Lostovayne/Autenticacion-usando-Node-con-Typescript-y-Mongodb-con-Arquitectura)
+- Api Rest Movies + Mysql + MVC: [Repositorio](https://github.com/Lostovayne/Api-Rest-Midu-Usando-Zod)
 
 🐳 Enfoque a Tecnologias 
 - Manejo Avanzado de Zustand: [Repositorio](https://github.com/Lostovayne/Dashboard-usando-Zustand-como-gestor-de-estado-en-React)
