@@ -61,6 +61,10 @@
 - Servidor Rest + Mongodb + Docker: [Repositorio](https://github.com/Lostovayne/Autenticacion-usando-Node-con-Typescript-y-Mongodb-con-Arquitectura)
 - Api Rest Movies + Mysql + MVC: [Repositorio](https://github.com/Lostovayne/Api-Rest-Midu-Usando-Zod)
 
+💾 Sofware como servicio (SaaS)
+- Summarize Article with OpenaAI GPT-4:
+
+
 🐳 Enfoque a Tecnologias 
 - Manejo Avanzado de Zustand: [Repositorio](https://github.com/Lostovayne/Dashboard-usando-Zustand-como-gestor-de-estado-en-React)
 - Manejo Avanzado de React : [Repositorio](https://github.com/Lostovayne/React-Avanzado-Patrones-de-Componentes-)
