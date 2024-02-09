@@ -54,7 +54,7 @@
 - Manejo Avanzado de AuthJs + Server Actions: [Repositorio](https://github.com/Lostovayne/Next-Auth-V5-Usando-Next-14-Avanzado) [Demo](https://github.com/Lostovayne/Next-Auth-V5-Usando-Next-14-Avanzado)
 - Pagina de Anime con Next14 + Consumo de Api: [Repositorio](https://github.com/Lostovayne/Next-Auth-V5-Usando-Next-14-Avanzado) [Demo](anime-next14.vercel.app)
 - React + Openai + Distintos Modelos GPT: [Repositorio](https://github.com/Lostovayne/React-usando-React-Router-dom-Tailwind-Typescript-e-integraciones-de-Openai-para-modelos) [Demo](react-gpt-weld.vercel.app/) 
-- Clon de Twitter + Next14 Typescript  : [Repositorio](https://github.com/Lostovayne/Clon-de-Twitter-con-Next-14) [Demo](clon-de-twitter.vercel.app)
+- Clon de Twitter + Next14 Typescript  : [Repositorio](https://github.com/Lostovayne/Clon-de-Twitter-con-Next-14) [Demo](https://clon-de-twitter.vercel.app/)
 - Autenticacion con Node + Arquitectura Limpia: [Repositorio](https://github.com/Lostovayne/Sistema-de-Autenticacion-usando-Node-Ts-y-Clean-Arquitecture)
 - Clon de Notion + Auth con Clerk y ShadCn: [Repositorio](https://github.com/Lostovayne/Clon-de-Notion-con-Next14-Tailwind-Typescript)
 - Servidor Web + Rest Clean : [Repositorio](https://github.com/Lostovayne/Servidor-Rest-y-web-con-posgresql-prisma-Nodejs-Typescript)
