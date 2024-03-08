@@ -53,17 +53,18 @@
 - Pagina Web Concecionario de Vehiculos : [Repositorio](https://github.com/Lostovayne/Tienda-de-Vehiculos-Next-13-Typescript-y-Tailwind) [Demo](https://concesionario-de-vehiculos.vercel.app)
 - Manejo Avanzado de AuthJs + Server Actions: [Repositorio](https://github.com/Lostovayne/Next-Auth-V5-Usando-Next-14-Avanzado) [Demo](https://github.com/Lostovayne/Next-Auth-V5-Usando-Next-14-Avanzado)
 - Pagina de Anime con Next14 + Consumo de Api: [Repositorio](https://github.com/Lostovayne/Next-Auth-V5-Usando-Next-14-Avanzado) [Demo](anime-next14.vercel.app)
-- React + Openai + Distintos Modelos GPT: [Repositorio](https://github.com/Lostovayne/React-usando-React-Router-dom-Tailwind-Typescript-e-integraciones-de-Openai-para-modelos) [Demo](react-gpt-weld.vercel.app/) 
 - Clon de Twitter + Next14 Typescript  : [Repositorio](https://github.com/Lostovayne/Clon-de-Twitter-con-Next-14) [Demo](https://clon-de-twitter.vercel.app/)
 - Autenticacion con Node + Arquitectura Limpia: [Repositorio](https://github.com/Lostovayne/Sistema-de-Autenticacion-usando-Node-Ts-y-Clean-Arquitecture)
-- Clon de Notion + Auth con Clerk y ShadCn: [Repositorio](https://github.com/Lostovayne/Clon-de-Notion-con-Next14-Tailwind-Typescript)
-- Clon de Trello + Auth con Clerk Prisma: [Repositorio](https://github.com/Lostovayne/Clon-de-Trello-Next-14-Tailwind-Typescript-Prisma)
+- React + Openai + Nest + Distintos Modelos GPT: [Repositorio](https://github.com/Lostovayne/React-usando-React-Router-dom-Tailwind-Typescript-e-integraciones-de-Openai-para-modelos) [Demo](react-gpt-weld.vercel.app/) 
+
 - Servidor Web + Rest Clean : [Repositorio](https://github.com/Lostovayne/Servidor-Rest-y-web-con-posgresql-prisma-Nodejs-Typescript)
 - Servidor Rest + Mongodb + Docker: [Repositorio](https://github.com/Lostovayne/Autenticacion-usando-Node-con-Typescript-y-Mongodb-con-Arquitectura)
 - Api Rest Movies + Mysql + MVC: [Repositorio](https://github.com/Lostovayne/Api-Rest-Midu-Usando-Zod)
 
 💾 Sofware como servicio (SaaS)
 - Summarize Article with OpenaAI GPT-4:
+- Clon de Notion + Auth con Clerk y ShadCn: [Repositorio](https://github.com/Lostovayne/Clon-de-Notion-con-Next14-Tailwind-Typescript)
+- Clon de Trello + Auth con Clerk Prisma: [Repositorio](https://github.com/Lostovayne/Clon-de-Trello-Next-14-Tailwind-Typescript-Prisma)
 
 
 🐳 Enfoque a Tecnologias 
