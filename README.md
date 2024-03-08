@@ -57,6 +57,7 @@
 - Autenticacion con Node + Arquitectura Limpia: [Repositorio](https://github.com/Lostovayne/Sistema-de-Autenticacion-usando-Node-Ts-y-Clean-Arquitecture)
 - React + Openai + Nest + Distintos Modelos GPT: [Repositorio](https://github.com/Lostovayne/React-usando-React-Router-dom-Tailwind-Typescript-e-integraciones-de-Openai-para-modelos) [Demo](react-gpt-weld.vercel.app/) 
 
+🚀 Backend
 - Servidor Web + Rest Clean : [Repositorio](https://github.com/Lostovayne/Servidor-Rest-y-web-con-posgresql-prisma-Nodejs-Typescript)
 - Servidor Rest + Mongodb + Docker: [Repositorio](https://github.com/Lostovayne/Autenticacion-usando-Node-con-Typescript-y-Mongodb-con-Arquitectura)
 - Api Rest Movies + Mysql + MVC: [Repositorio](https://github.com/Lostovayne/Api-Rest-Midu-Usando-Zod)
@@ -65,7 +66,6 @@
 - Summarize Article with OpenaAI GPT-4:
 - Clon de Notion + Auth con Clerk y ShadCn: [Repositorio](https://github.com/Lostovayne/Clon-de-Notion-con-Next14-Tailwind-Typescript)
 - Clon de Trello + Auth con Clerk Prisma: [Repositorio](https://github.com/Lostovayne/Clon-de-Trello-Next-14-Tailwind-Typescript-Prisma)
-
 
 🐳 Enfoque a Tecnologias 
 - Manejo Avanzado de Zustand: [Repositorio](https://github.com/Lostovayne/Dashboard-usando-Zustand-como-gestor-de-estado-en-React)
