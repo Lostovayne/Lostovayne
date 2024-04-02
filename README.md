@@ -66,6 +66,7 @@
 - Summarize Article with OpenaAI GPT-4:
 - Clon de Notion + Auth con Clerk y ShadCn: [Repositorio](https://github.com/Lostovayne/Clon-de-Notion-con-Next14-Tailwind-Typescript)
 - Clon de Trello + Auth con Clerk Prisma: [Repositorio](https://github.com/Lostovayne/Clon-de-Trello-Next-14-Tailwind-Typescript-Prisma)
+- Clon de Duolingo + Drizzle + Prisma y Bun : [Repositorio](https://github.com/Lostovayne/SaaS-Clon-duolingo-next14-bun-drizzle)
 
 🐳 Enfoque a Tecnologias 
 - Manejo Avanzado de Zustand: [Repositorio](https://github.com/Lostovayne/Dashboard-usando-Zustand-como-gestor-de-estado-en-React)
