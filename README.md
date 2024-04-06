@@ -52,7 +52,7 @@
 - Tienda de Ropa Completa + Sistema de Pagos : [Repositorio](https://github.com/Lostovayne/Tienda-de-Ropa-Tesla-Shop-usando-Next-14) [Demo](https://github.com/Lostovayne/Tienda-de-Ropa-Tesla-Shop-usando-Next-14)
 - Pagina Web Concecionario de Vehiculos : [Repositorio](https://github.com/Lostovayne/Tienda-de-Vehiculos-Next-13-Typescript-y-Tailwind) [Demo](https://concesionario-de-vehiculos.vercel.app)
 - Manejo Avanzado de AuthJs + Server Actions: [Repositorio](https://github.com/Lostovayne/Next-Auth-V5-Usando-Next-14-Avanzado) [Demo](https://github.com/Lostovayne/Next-Auth-V5-Usando-Next-14-Avanzado)
-- Pagina de Anime con Next14 + Consumo de Api: [Repositorio](https://github.com/Lostovayne/Next-Auth-V5-Usando-Next-14-Avanzado) [Demo](anime-next14.vercel.app)
+- Pagina de Anime con Next14 + Consumo de Api: [Repositorio](https://github.com/Lostovayne/Next-Auth-V5-Usando-Next-14-Avanzado) [Demo](https://anime-next14.vercel.app)
 - Clon de Twitter + Next14 Typescript  : [Repositorio](https://github.com/Lostovayne/Clon-de-Twitter-con-Next-14) [Demo](https://clon-de-twitter.vercel.app/)
 - Autenticacion con Node + Arquitectura Limpia: [Repositorio](https://github.com/Lostovayne/Sistema-de-Autenticacion-usando-Node-Ts-y-Clean-Arquitecture)
 - React + Openai + Nest + Distintos Modelos GPT: [Repositorio](https://github.com/Lostovayne/React-usando-React-Router-dom-Tailwind-Typescript-e-integraciones-de-Openai-para-modelos) [Demo](react-gpt-weld.vercel.app/) 
