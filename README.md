@@ -60,7 +60,7 @@ También estoy explorando el uso de los Server Components y cómo pueden mejorar
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 </div>
 
-
+- Administrador de Productos + Stack PERN + Rest Api: [Repositorio](https://github.com/Lostovayne/Administrador-de-Productos-Stack-PERN-y-Rest-Api)
 - Tienda de Ropa Completa + Sistema de Pagos : [Repositorio](https://github.com/Lostovayne/Tienda-de-Ropa-Tesla-Shop-usando-Next-14) [Demo](https://github.com/Lostovayne/Tienda-de-Ropa-Tesla-Shop-usando-Next-14)
 - Pagina Web Concesionario de Vehículos : [Repositorio](https://github.com/Lostovayne/Tienda-de-Vehiculos-Next-13-Typescript-y-Tailwind) [Demo](https://concesionario-de-vehiculos.vercel.app)
 - Manejo Avanzado de AuthJs + Server Actions: [Repositorio](https://github.com/Lostovayne/Next-Auth-V5-Usando-Next-14-Avanzado) [Demo](https://github.com/Lostovayne/Next-Auth-V5-Usando-Next-14-Avanzado)
