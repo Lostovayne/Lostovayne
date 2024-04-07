@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, Soy Franko, un Desarrollador Full Stack </h1></summary>
+    <summary><h1 style="display: inline-block">Hola 👋, Soy Franko, un Desarrollador Web Full Stack </h1></summary>
   </ul>
 </div>
 
@@ -22,9 +22,6 @@
 </div>
 
   <!--Intro start-->
-
-## ¡Hola! 👋 Soy Franko ✨
-
 <div style={{display:flex;}} >
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Anatomical%20Heart.png" alt="Anatomical Heart" width="25" hheigh="33"eight="25" />
   Actualmente estoy trabajando en proyectos utilizando tecnologías como React.js, Next.js 13/14, Node.js, Prisma, TypeScript, Docker y Tailwind CSS.
