@@ -67,7 +67,7 @@ También estoy explorando el uso de los Server Components y cómo pueden mejorar
 - React + Openai + Nest + Distintos Modelos GPT: [Repositorio](https://github.com/Lostovayne/React-usando-React-Router-dom-Tailwind-Typescript-e-integraciones-de-Openai-para-modelos) [Demo](react-gpt-weld.vercel.app/)
 
 
-## 📃 Landing Pages
+## 📃 Landing Pages en Producción
 <div style="display:flex;padding-left:20px;padding-right:40px;padding-bottom:1px;gap:8px">
 
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
@@ -76,7 +76,7 @@ También estoy explorando el uso de los Server Components y cómo pueden mejorar
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 </div>
 
-- Web de la Velada del Año IV: 
+- Web de la Velada del Año IV: [Demo](https://khalest.cloud)
 
 
 
