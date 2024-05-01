@@ -96,6 +96,7 @@ También estoy explorando el uso de los Server Components y cómo pueden mejorar
 - Servidor Web + Rest Clean : [Repositorio](https://github.com/Lostovayne/Servidor-Rest-y-web-con-posgresql-prisma-Nodejs-Typescript)
 - Servidor Rest + Mongodb + Docker: [Repositorio](https://github.com/Lostovayne/Autenticacion-usando-Node-con-Typescript-y-Mongodb-con-Arquitectura)
 - Api Rest Movies + Mysql + MVC: [Repositorio](https://github.com/Lostovayne/Api-Rest-Midu-Usando-Zod)
+- Api Cats and Users Nest + Arquitectura Clean, Patron Repository :[Repositorio](https://github.com/Lostovayne/Api-Rest-Cat-con-NestJs-MySql-TypeOrm-y-Typescript)
 
 ## 💾 Software como servicio (SaaS)
 
