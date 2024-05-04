@@ -111,7 +111,7 @@ También estoy explorando el uso de los Server Components y cómo pueden mejorar
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 </div>
-
+- Servicio de Manejo y Edicion de imagenes + Pagos y AI :  
 - Summarize Article with OpenAI GPT-4:
 - Clon de Notion + Auth con Clerk y ShadCn: [Repositorio](https://github.com/Lostovayne/Clon-de-Notion-con-Next14-Tailwind-Typescript)
 - Clon de Trello + Auth con Clerk Prisma: [Repositorio](https://github.com/Lostovayne/Clon-de-Trello-Next-14-Tailwind-Typescript-Prisma)
