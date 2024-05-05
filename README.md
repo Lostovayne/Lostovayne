@@ -112,6 +112,7 @@ También estoy explorando el uso de los Server Components y cómo pueden mejorar
 
 </div>
 
+- Plataforma SaaS con 5 Herramientas impulsadas por Next y AI:
 - Servicio de Manejo y Edicion de imagenes + Pagos y AI :  
 - Summarize Article with OpenAI GPT-4:
 - Clon de Notion + Auth con Clerk y ShadCn: [Repositorio](https://github.com/Lostovayne/Clon-de-Notion-con-Next14-Tailwind-Typescript)
