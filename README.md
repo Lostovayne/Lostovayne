@@ -93,10 +93,11 @@ También estoy explorando el uso de los Server Components y cómo pueden mejorar
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 </div>
 
+- Fast Api con Hono + Next14 + Cloudflare Workers: [Repositorio](https://github.com/Lostovayne/Fast-Api-Usando-Hono-y-Next14-en-Cloudflare-Workers
 - Servidor Web + Rest Clean : [Repositorio](https://github.com/Lostovayne/Servidor-Rest-y-web-con-posgresql-prisma-Nodejs-Typescript)
 - Servidor Rest + Mongodb + Docker: [Repositorio](https://github.com/Lostovayne/Autenticacion-usando-Node-con-Typescript-y-Mongodb-con-Arquitectura)
 - Api Rest Movies + Mysql + MVC: [Repositorio](https://github.com/Lostovayne/Api-Rest-Midu-Usando-Zod)
-- Api Cats and Users Nest + Arquitectura Clean, Patron Repository :[Repositorio](https://github.com/Lostovayne/Api-Rest-Cat-con-NestJs-MySql-TypeOrm-y-Typescript)
+- Api Cats and Users Nest + Arquitectura Clean, Patron Repository: [Repositorio](https://github.com/Lostovayne/Api-Rest-Cat-con-NestJs-MySql-TypeOrm-y-Typescript)
 
 ## 💾 Software como servicio (SaaS)
 
