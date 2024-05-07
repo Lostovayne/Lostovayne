@@ -113,6 +113,7 @@ También estoy explorando el uso de los Server Components y cómo pueden mejorar
 
 </div>
 
+- Creacion de Compañeros Impulsados por IA : [Repositorio]
 - Plataforma SaaS con 5 Herramientas impulsadas por Next y AI:
 - Servicio de Manejo y Edicion de imagenes + Pagos y AI :  
 - Summarize Article with OpenAI GPT-4:
