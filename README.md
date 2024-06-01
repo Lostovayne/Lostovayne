@@ -24,7 +24,7 @@
   <!--Intro start-->
 <div style={{display:flex;}} >
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Anatomical%20Heart.png" alt="Anatomical Heart" width="25" hheigh="33"eight="25" />
-  Actualmente estoy trabajando en proyectos utilizando tecnologías como React.js, Next.js 13/14, Node.js, Prisma, TypeScript, Docker y Tailwind CSS.
+  Actualmente estoy trabajando en proyectos utilizando tecnologías como React.js, Next.js 14/15, Node.js, Prisma, TypeScript, Docker y Tailwind CSS.
 </div>
 
 También estoy explorando el uso de los Server Components y cómo pueden mejorar la eficiencia y escalabilidad en mis aplicaciones.
@@ -83,7 +83,7 @@ También estoy explorando el uso de los Server Components y cómo pueden mejorar
 </div>
 
 - Web de la Velada del Año IV: [Demo](https://khalest.cloud)
-
+- Banco digital e inversiones : [Demo](https://cash-bank.pages.dev/)
 
 
 ## 🚀 Mis Proyectos en Backend + Microservicios
