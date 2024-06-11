@@ -23,19 +23,22 @@
 
   <!--Intro start-->
 <div style={{display:flex;}} >
+  Actualmente estoy trabajando en proyectos personales y desarrollos SaaS.
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Anatomical%20Heart.png" alt="Anatomical Heart" width="25" hheigh="33"eight="25" />
-  Actualmente estoy trabajando en proyectos utilizando tecnologías como React.js, Next.js 14/15, Node.js, Prisma, TypeScript, Docker y Tailwind CSS.
 </div>
 
-También estoy explorando el uso de los Server Components y cómo pueden mejorar la eficiencia y escalabilidad en mis aplicaciones.
-💼 Tengo experiencia en el desarrollo de aplicaciones web y móviles utilizando un enfoque de código limpio y reutilizable. Me apasiona la creación de arquitecturas escalables y sostenibles.
+- Mi enfoque principal es la mejora continua, tanto en la calidad del código como en mi enfoque para resolver problemas.
+- Dado que la tecnología avanza constantemente, me mantengo en un proceso continuo de aprendizaje y actualización.
+- Siempre busco alcanzar un equilibrio óptimo en el desarrollo de software.
+- Estoy al tanto de las últimas tendencias y tecnologías emergentes.
+
 
 ## 🐳 Mis últimos proyectos generales usan tecnologías tales como:
 
 <div style="display:flex;padding-left:20px;padding-right:40px;padding-bottom:1px;gap:8px">
 
 
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -43,7 +46,6 @@ También estoy explorando el uso de los Server Components y cómo pueden mejorar
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -58,14 +60,15 @@ También estoy explorando el uso de los Server Components y cómo pueden mejorar
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 </div>
 
-- Administrador de Productos + Stack PERN + Rest Api: [Repositorio](https://github.com/Lostovayne/Administrador-de-Productos-Stack-PERN-y-Rest-Api)
-- Tienda de Ropa Completa + Sistema de Pagos : [Repositorio](https://github.com/Lostovayne/Tienda-de-Ropa-Tesla-Shop-usando-Next-14) [Demo](https://github.com/Lostovayne/Tienda-de-Ropa-Tesla-Shop-usando-Next-14)
-- Pagina Web Concesionario de Vehículos : [Repositorio](https://github.com/Lostovayne/Tienda-de-Vehiculos-Next-13-Typescript-y-Tailwind) [Demo](https://concesionario-de-vehiculos.vercel.app)
-- Manejo Avanzado de AuthJs + Server Actions: [Repositorio](https://github.com/Lostovayne/Next-Auth-V5-Usando-Next-14-Avanzado) [Demo](https://github.com/Lostovayne/Next-Auth-V5-Usando-Next-14-Avanzado)
-- Pagina de Anime con Next14 + Consumo de Api: [Repositorio](https://github.com/Lostovayne/Next-Auth-V5-Usando-Next-14-Avanzado) [Demo](https://anime-next14.vercel.app)
-- Clon de Twitter + Next14 Typescript : [Repositorio](https://github.com/Lostovayne/Clon-de-Twitter-con-Next-14) [Demo](https://clon-de-twitter.vercel.app/)
-- Autenticación con Node + Arquitectura Limpia: [Repositorio](https://github.com/Lostovayne/Sistema-de-Autenticacion-usando-Node-Ts-y-Clean-Arquitecture)
-- React + Openai + Nest + Distintos Modelos GPT: [Repositorio](https://github.com/Lostovayne/React-usando-React-Router-dom-Tailwind-Typescript-e-integraciones-de-Openai-para-modelos) [Demo](react-gpt-weld.vercel.app/)
+- **Sistema de Gestión de Productos con Stack PERN y REST API**: [Repositorio](https://github.com/Lostovayne/Administrador-de-Productos-Stack-PERN-y-Rest-Api)
+- **Tienda de Ropa Completa con Sistema de Pagos**: [Repositorio](https://github.com/Lostovayne/Tienda-de-Ropa-Tesla-Shop-usando-Next-14) | [Demo](https://github.com/Lostovayne/Tienda-de-Ropa-Tesla-Shop-usando-Next-14)
+- **Página Web de Concesionario de Vehículos**: [Repositorio](https://github.com/Lostovayne/Tienda-de-Vehiculos-Next-13-Typescript-y-Tailwind) | [Demo](https://concesionario-de-vehiculos.vercel.app)
+- **Gestión Avanzada de AuthJs con Acciones en el Servidor**: [Repositorio](https://github.com/Lostovayne/Next-Auth-V5-Usando-Next-14-Avanzado) | [Demo](https://github.com/Lostovayne/Next-Auth-V5-Usando-Next-14-Avanzado)
+- **Página de Anime con Next.js 14 y Consumo de API**: [Repositorio](https://github.com/Lostovayne/Next-Auth-V5-Usando-Next-14-Avanzado) | [Demo](https://anime-next14.vercel.app)
+- **Clon de Twitter con Next.js 14 y TypeScript**: [Repositorio](https://github.com/Lostovayne/Clon-de-Twitter-con-Next-14) | [Demo](https://clon-de-twitter.vercel.app/)
+- **Sistema de Autenticación con Node.js y Arquitectura Limpia**: [Repositorio](https://github.com/Lostovayne/Sistema-de-Autenticacion-usando-Node-Ts-y-Clean-Arquitecture)
+- **React con OpenAI, NestJS y Varios Modelos GPT**: [Repositorio](https://github.com/Lostovayne/React-usando-React-Router-dom-Tailwind-Typescript-e-integraciones-de-Openai-para-modelos) | [Demo](https://react-gpt-weld.vercel.app/)
+
 
 
 ## 📃 Landing Pages en Producción
