@@ -27,11 +27,11 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Anatomical%20Heart.png" alt="Anatomical Heart" width="25" hheigh="33"eight="25" />
 </div>
 
-- Mi enfoque principal es la mejora continua, tanto en la calidad del código como en mi enfoque para resolver problemas.
-- Dado que la tecnología avanza constantemente, me mantengo en un proceso continuo de aprendizaje y actualización.
-- Siempre busco alcanzar un equilibrio óptimo en el desarrollo de software.
-- Estoy al tanto de las últimas tendencias y tecnologías emergentes.
 
+- Mi enfoque se centra en la mejora continua, perfeccionando tanto la calidad del código como mis estrategias para resolver problemas.
+- Me mantengo en un proceso constante de aprendizaje y actualización para estar a la vanguardia de los avances tecnológicos.
+- Busco siempre alcanzar un equilibrio óptimo en el desarrollo de software, priorizando la eficiencia y la innovación.
+- Estoy al tanto de las últimas tendencias y tecnologías emergentes, asegurándome de aplicar las mejores prácticas en cada proyecto.
 
 ## 🐳 Mis últimos proyectos generales usan tecnologías tales como:
 
