@@ -22,10 +22,8 @@
 </div>
 
   <!--Intro start-->
-<div style={{display:flex;}} >
-  Actualmente estoy trabajando en proyectos personales y desarrollos SaaS.
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Anatomical%20Heart.png" alt="Anatomical Heart" width="25" hheigh="33"eight="25" />
-</div>
+
+  Me apasiona el desarrollo de proyectos y aplicaciones, y disfruto trabajando tanto en el frontend como en el backend. Siempre estoy en busca de nuevas formas de mejorar mis habilidades y conocimientos en código y tecnologías emergentes.
 
 
 - Mi enfoque se centra en la mejora continua, perfeccionando tanto la calidad del código como mis estrategias para resolver problemas.
