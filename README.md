@@ -151,6 +151,8 @@
 
 </div>
 
+- Aprendiendo Nest Actulmente:
+- Desarrollando Proyectos en VueJs :
 - Manejo Avanzado de Zustand: [Repositorio](https://github.com/Lostovayne/Dashboard-usando-Zustand-como-gestor-de-estado-en-React)
 - Manejo Avanzado de React : [Repositorio](https://github.com/Lostovayne/React-Avanzado-Patrones-de-Componentes-)
 - Manejo Avanzado de Node : [Repositorio](https://github.com/Lostovayne/Autenticacion-usando-Node-con-Typescript-y-Mongodb-con-Arquitectura)
@@ -158,7 +160,7 @@
 - Uso Intermedio de PosgreSql:
 - Gestor de Estado Tanstack Query:
 - React + Socket-Io:
-- Próximamente Manejo de Nest..
+
 
 <!--- stats & Trophy (start) -->
 <p align="center">
