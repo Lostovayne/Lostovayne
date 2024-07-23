@@ -152,14 +152,14 @@
 </div>
 
 - Aprendiendo Nest Actulmente:
-- Desarrollando Proyectos en VueJs :
+- Manejo de Arquitecturas: 
 - Manejo Avanzado de Zustand: [Repositorio](https://github.com/Lostovayne/Dashboard-usando-Zustand-como-gestor-de-estado-en-React)
 - Manejo Avanzado de React : [Repositorio](https://github.com/Lostovayne/React-Avanzado-Patrones-de-Componentes-)
 - Manejo Avanzado de Node : [Repositorio](https://github.com/Lostovayne/Autenticacion-usando-Node-con-Typescript-y-Mongodb-con-Arquitectura)
-- Bases e Intermedio React Native:
+- React Native con Expo:
 - Uso Intermedio de PosgreSql:
-- Gestor de Estado Tanstack Query:
-- React + Socket-Io:
+- Gestor de Estado Tanstack Query: [Repositorio](https://github.com/Lostovayne/tanstack-query-issues)
+
 
 
 <!--- stats & Trophy (start) -->
