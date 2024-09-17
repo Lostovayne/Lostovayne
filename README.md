@@ -127,12 +127,13 @@
 </div>
 
 - Creacion de Compañeros Impulsados por IA : [Repositorio](https://github.com/Lostovayne/SaaS-AI-Companion)
-- Plataforma SaaS con 5 Herramientas impulsadas por Next y AI:
-- Servicio de Manejo y Edicion de imagenes + Pagos y AI :  
+- SaaS Para creación de videos y imagenes usando AI:
+- Servicio de Manejo y Edicion de imagenes + Pagos y AI:  
 - Summarize Article with OpenAI GPT-4:
 - Clon de Notion + Auth con Clerk y ShadCn: [Repositorio](https://github.com/Lostovayne/Clon-de-Notion-con-Next14-Tailwind-Typescript)
 - Clon de Trello + Auth con Clerk Prisma: [Repositorio](https://github.com/Lostovayne/Clon-de-Trello-Next-14-Tailwind-Typescript-Prisma)
 - Clon de Duolingo + Drizzle + Prisma y Bun : [Repositorio](https://github.com/Lostovayne/SaaS-Clon-duolingo-next14-bun-drizzle)
+- Clon de Slack + Real Time : []()
 
 ## 🐳 Enfoque a Tecnologías
 
