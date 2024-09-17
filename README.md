@@ -75,7 +75,8 @@
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 </div>
 
@@ -133,7 +134,7 @@
 - Clon de Notion + Auth con Clerk y ShadCn: [Repositorio](https://github.com/Lostovayne/Clon-de-Notion-con-Next14-Tailwind-Typescript)
 - Clon de Trello + Auth con Clerk Prisma: [Repositorio](https://github.com/Lostovayne/Clon-de-Trello-Next-14-Tailwind-Typescript-Prisma)
 - Clon de Duolingo + Drizzle + Prisma y Bun : [Repositorio](https://github.com/Lostovayne/SaaS-Clon-duolingo-next14-bun-drizzle)
-- Clon de Slack + Real Time : []()
+- Clon de Slack + Real Time : [Repositorio](https://github.com/Lostovayne/build-slack-clone)
 
 ## 🐳 Enfoque a Tecnologías
 
