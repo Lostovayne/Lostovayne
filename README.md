@@ -73,7 +73,7 @@ Estoy al tanto de las últimas tendencias y tecnologías emergentes, asegurándo
 
 
 
-## 💾 Software como servicio (SaaS)
+## 💾 Software como servicio (SaaS) + Despliegues escalables
 
 <div style="display:flex;padding-left:20px;padding-right:40px;padding-bottom:10px;gap:8px" >
 
