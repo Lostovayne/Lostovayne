@@ -141,7 +141,7 @@ Estoy al tanto de las últimas tendencias y tecnologías emergentes, asegurándo
 - Api Cats and Users Nest + Arquitectura Clean, Patron Repository: [Repositorio](https://github.com/Lostovayne/Api-Rest-Cat-con-NestJs-MySql-TypeOrm-y-Typescript)
 
 
-## 🐳 Enfoque a Tecnologías
+## 🐳 Enfoque a Tecnologías y Stack tecnológico 
 
 <div style="display:flex;padding-left:20px;padding-right:40px;padding-bottom:2px;gap:8px" >
 
@@ -158,14 +158,7 @@ Estoy al tanto de las últimas tendencias y tecnologías emergentes, asegurándo
 
 </div>
 
-- Aprendiendo Nest Actulmente:
-- Manejo de Arquitecturas: 
-- Manejo Avanzado de Zustand: [Repositorio](https://github.com/Lostovayne/Dashboard-usando-Zustand-como-gestor-de-estado-en-React)
-- Manejo Avanzado de React : [Repositorio](https://github.com/Lostovayne/React-Avanzado-Patrones-de-Componentes-)
-- Manejo Avanzado de Node : [Repositorio](https://github.com/Lostovayne/Autenticacion-usando-Node-con-Typescript-y-Mongodb-con-Arquitectura)
-- React Native con Expo:
-- Uso Intermedio de PosgreSql:
-- Gestor de Estado Tanstack Query: [Repositorio](https://github.com/Lostovayne/tanstack-query-issues)
+
 
 
 
