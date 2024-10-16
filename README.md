@@ -23,13 +23,17 @@
 
   <!--Intro start-->
 
-  Me apasiona el desarrollo de proyectos y aplicaciones, y disfruto trabajando tanto en el frontend como en el backend. Siempre estoy en busca de nuevas formas de mejorar mis habilidades y conocimientos en código y tecnologías emergentes.
+# Programando experiencias 
 
+Soy un apasionado del desarrollo de software, con un enfoque especial en la implementación de servicios SaaS. 
+Me encanta trabajar en proyectos y aplicaciones, tanto en el frontend como en el backend. 
 
-- Mi enfoque se centra en la mejora continua, perfeccionando tanto la calidad del código como mis estrategias para resolver problemas.
-- Me mantengo en un proceso constante de aprendizaje y actualización para estar a la vanguardia de los avances tecnológicos.
-- Busco siempre alcanzar un equilibrio óptimo en el desarrollo de software, priorizando la eficiencia y la innovación.
-- Estoy al tanto de las últimas tendencias y tecnologías emergentes, asegurándome de aplicar las mejores prácticas en cada proyecto.
+Siempre busco nuevas formas de mejorar mis habilidades y conocimientos en programación y tecnologías emergentes.
+Mi enfoque se centra en la **mejora continua**, perfeccionando la calidad del código y mis estrategias para resolver problemas. 
+
+Me mantengo en un proceso constante de aprendizaje y actualización, con el objetivo de estar a la vanguardia de los avances tecnológicos.
+Busco alcanzar un **equilibrio óptimo** en el desarrollo de software, priorizando la eficiencia y la innovación. 
+Estoy al tanto de las últimas tendencias y tecnologías emergentes, asegurándome de aplicar las mejores prácticas en cada proyecto.
 
 ## 🐳 Mis últimos proyectos generales usan tecnologías tales como:
 
