@@ -87,14 +87,13 @@ Estoy al tanto de las últimas tendencias y tecnologías emergentes, asegurándo
 
 </div>
 
-- Creacion de Compañeros Impulsados por IA : [Repositorio](https://github.com/Lostovayne/SaaS-AI-Companion)
+- Creacion de Compañeros Impulsados por IA : [Repositorio](https://github.com/Lostovayne/SaaS-AI-Companion)[Deploy]()
 - SaaS Para creación de videos y imagenes usando AI:
 - Servicio de Manejo y Edicion de imagenes + Pagos y AI:  
 - Summarize Article with OpenAI GPT-4:
-- Clon de Notion + Auth con Clerk y ShadCn: [Repositorio](https://github.com/Lostovayne/Clon-de-Notion-con-Next14-Tailwind-Typescript)
-- Clon de Trello + Auth con Clerk Prisma: [Repositorio](https://github.com/Lostovayne/Clon-de-Trello-Next-14-Tailwind-Typescript-Prisma)
-- Clon de Duolingo + Drizzle + Prisma y Bun : [Repositorio](https://github.com/Lostovayne/SaaS-Clon-duolingo-next14-bun-drizzle)
-- Clon de Slack + Real Time : [Repositorio](https://github.com/Lostovayne/build-slack-clone)
+- Clon de Notion + Auth con Clerk y ShadCn: [Repositorio](https://github.com/Lostovayne/Clon-de-Notion-con-Next14-Tailwind-Typescript)  **[Deploy](https://jotion-dev-nine.vercel.app)**
+- Clon de Trello + Auth con Clerk Prisma: [Repositorio](https://github.com/Lostovayne/Clon-de-Trello-Next-14-Tailwind-Typescript-Prisma)  **[Deplo]()**
+- Clon de Slack + Real Time : [Repositorio](https://github.com/Lostovayne/build-slack-clone) **[Deploy]()**
 
 
 ## 📃 Landing Pages en Producción
