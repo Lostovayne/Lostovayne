@@ -69,6 +69,30 @@
 
 
 
+## 💾 Software como servicio (SaaS)
+
+<div style="display:flex;padding-left:20px;padding-right:40px;padding-bottom:10px;gap:8px" >
+
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+- Creacion de Compañeros Impulsados por IA : [Repositorio](https://github.com/Lostovayne/SaaS-AI-Companion)
+- SaaS Para creación de videos y imagenes usando AI:
+- Servicio de Manejo y Edicion de imagenes + Pagos y AI:  
+- Summarize Article with OpenAI GPT-4:
+- Clon de Notion + Auth con Clerk y ShadCn: [Repositorio](https://github.com/Lostovayne/Clon-de-Notion-con-Next14-Tailwind-Typescript)
+- Clon de Trello + Auth con Clerk Prisma: [Repositorio](https://github.com/Lostovayne/Clon-de-Trello-Next-14-Tailwind-Typescript-Prisma)
+- Clon de Duolingo + Drizzle + Prisma y Bun : [Repositorio](https://github.com/Lostovayne/SaaS-Clon-duolingo-next14-bun-drizzle)
+- Clon de Slack + Real Time : [Repositorio](https://github.com/Lostovayne/build-slack-clone)
+
+
 ## 📃 Landing Pages en Producción
 <div style="display:flex;padding-left:20px;padding-right:40px;padding-bottom:1px;gap:8px">
 
@@ -113,28 +137,6 @@
 - Api Rest Movies + Mysql + MVC: [Repositorio](https://github.com/Lostovayne/Api-Rest-Midu-Usando-Zod)
 - Api Cats and Users Nest + Arquitectura Clean, Patron Repository: [Repositorio](https://github.com/Lostovayne/Api-Rest-Cat-con-NestJs-MySql-TypeOrm-y-Typescript)
 
-## 💾 Software como servicio (SaaS)
-
-<div style="display:flex;padding-left:20px;padding-right:40px;padding-bottom:10px;gap:8px" >
-
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
-
-- Creacion de Compañeros Impulsados por IA : [Repositorio](https://github.com/Lostovayne/SaaS-AI-Companion)
-- SaaS Para creación de videos y imagenes usando AI:
-- Servicio de Manejo y Edicion de imagenes + Pagos y AI:  
-- Summarize Article with OpenAI GPT-4:
-- Clon de Notion + Auth con Clerk y ShadCn: [Repositorio](https://github.com/Lostovayne/Clon-de-Notion-con-Next14-Tailwind-Typescript)
-- Clon de Trello + Auth con Clerk Prisma: [Repositorio](https://github.com/Lostovayne/Clon-de-Trello-Next-14-Tailwind-Typescript-Prisma)
-- Clon de Duolingo + Drizzle + Prisma y Bun : [Repositorio](https://github.com/Lostovayne/SaaS-Clon-duolingo-next14-bun-drizzle)
-- Clon de Slack + Real Time : [Repositorio](https://github.com/Lostovayne/build-slack-clone)
 
 ## 🐳 Enfoque a Tecnologías
 
