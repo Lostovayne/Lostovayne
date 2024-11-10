@@ -87,7 +87,7 @@ Estoy al tanto de las últimas tendencias y tecnologías emergentes, asegurándo
 
 </div>
 
-- Creacion de Compañeros Impulsados por IA : [Repositorio](https://github.com/Lostovayne/SaaS-AI-Companion) | **[Deploy]()**
+- Creacion de Compañeros Impulsados por IA : [Repositorio](https://github.com/Lostovayne/SaaS-AI-Companion) | **[Deploy](https://ai-companion-khalest.vercel.app/)**
 - SaaS Para creación de videos y imagenes usando AI:
 - Servicio de Manejo y Edicion de imagenes + Pagos y AI: 
 - Clon de Notion + Auth con Clerk y ShadCn: [Repositorio](https://github.com/Lostovayne/Clon-de-Notion-con-Next14-Tailwind-Typescript) | **[Deploy](https://jotion-dev-nine.vercel.app)**
