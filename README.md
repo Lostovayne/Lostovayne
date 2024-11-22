@@ -44,9 +44,11 @@ Me mantengo en un proceso constante de aprendizaje y actualización para estar a
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![ReactNative](	https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-F96854?style=for-the-badge&logo=hono&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23EF4223.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 
 
