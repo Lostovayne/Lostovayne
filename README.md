@@ -84,12 +84,10 @@ Me mantengo en un proceso constante de aprendizaje y actualización para estar a
 
 </div>
 
-- Creacion de Compañeros Impulsados por IA : [Repositorio](https://github.com/Lostovayne/SaaS-AI-Companion) | **[Deploy](https://ai-companion-khalest.vercel.app/)**
-- SaaS Para creación de videos y imagenes usando AI:
-- Servicio de Manejo y Edicion de imagenes + Pagos y AI: 
-- Clon de Notion + Auth con Clerk y ShadCn: [Repositorio](https://github.com/Lostovayne/Clon-de-Notion-con-Next14-Tailwind-Typescript) | **[Deploy](https://jotion-dev-nine.vercel.app)**
-- Clon de Trello + Auth con Clerk Prisma: [Repositorio](https://github.com/Lostovayne/Clon-de-Trello-Next-14-Tailwind-Typescript-Prisma) | **[Deploy]()**
-- Clon de Slack + Real Time : [Repositorio](https://github.com/Lostovayne/build-slack-clone) | **[Deploy]()**
+- Creacion de Compañeros Impulsados por IA : [Repositorio](https://github.com/Lostovayne/SaaS-AI-Companion) | [Deploy](https://ai-companion-khalest.vercel.app/)
+- Clon de Notion + Auth con Clerk y ShadCn: [Repositorio](https://github.com/Lostovayne/Clon-de-Notion-con-Next14-Tailwind-Typescript) | [Deploy](https://jotion-dev-nine.vercel.app)
+- Clon de Trello + Auth con Clerk Prisma: [Repositorio](https://github.com/Lostovayne/Clon-de-Trello-Next-14-Tailwind-Typescript-Prisma) | [Deploy]()
+- Clon de Slack + Real Time : [Repositorio](https://github.com/Lostovayne/build-slack-clone) | [Deploy]()
 
 
 ## 📃 Landing Pages en Producción
