@@ -49,6 +49,7 @@ Me mantengo en un proceso constante de aprendizaje y actualización para estar a
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-F96854?style=for-the-badge&logo=hono&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23EF4223.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Upstash](https://img.shields.io/badge/Upstash-6DA55F?style=for-the-badge&logo=upstash&logoColor=white)
 
 
 
