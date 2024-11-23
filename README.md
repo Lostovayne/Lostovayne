@@ -50,6 +50,12 @@ Me mantengo en un proceso constante de aprendizaje y actualización para estar a
 ![Hono](https://img.shields.io/badge/Hono-F96854?style=for-the-badge&logo=hono&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23EF4223.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Upstash](https://img.shields.io/badge/Upstash-6DA55F?style=for-the-badge&logo=upstash&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-%23EF4223.svg?style=for-the-badge&logo=sanity&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk_Auth-007ACC?style=for-the-badge&logo=clerk&logoColor=white)
+![ShadCn](https://img.shields.io/badge/ShadCn-00000F?style=for-the-badge&logo=shadcn_ui&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-black?style=for-the-badge&logo=convex&logoColor=white)
+![Motion](https://img.shields.io/badge/Motion-3982CE?style=for-the-badge&logo=framer&logoColor=white)
+
 
 
 
@@ -80,7 +86,7 @@ Me mantengo en un proceso constante de aprendizaje y actualización para estar a
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![Tanstack Query](https://img.shields.io/badge/-Tanstack-FF4154?style=for-the-badge&logo=react&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
