@@ -1,166 +1,160 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# <div align="center">👨‍💻 Franko | Desarrollador Web Full Stack</div>
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, Soy Franko, un Desarrollador Web Full Stack </h1></summary>
-  </ul>
-</div>
-
-<!--- snake -->
 <div align="center">
-  <img  src="/grid-snake.svg"
-       alt="snake" /></a>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">-La confusión es parte de la programación.</h2></summary>
-  </ul>
+<div align="center">
+  <img src="/grid-snake.svg" alt="snake" />
 </div>
 
-  <!--Intro start-->
+<div align="center">
+  <p><em>"La confusión es parte de la programación, la persistencia es la clave del éxito."</em></p>
+</div>
 
-# Innovando a través del Código
+## 🚀 Sobre mí
 
-¡Hola! Soy un apasionado del desarrollo de software, especialmente en la implementación de servicios SaaS. Desde hace años, disfruto programando y creando soluciones innovadoras, tanto en el frontend como en el backend.
+Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y escalables, con especial enfoque en servicios SaaS. Mi filosofía se centra en:
 
-Siempre estoy buscando nuevas formas de mejorar mis habilidades y conocimientos en programación y tecnologías emergentes. Me encanta estar al día con las últimas tendencias y probar lo que está innovando en el mundo de la tecnología. La **mejora continua** es mi mantra, siempre perfeccionando la calidad del código y encontrando mejores maneras de resolver problemas.
+- 🎯 Implementación de mejores prácticas y patrones de diseño
+- 📚 Aprendizaje continuo y actualización constante
+- 🛠️ Desarrollo de soluciones eficientes y mantenibles
+- 🤝 Colaboración y código limpio
 
-Me mantengo en un proceso constante de aprendizaje y actualización para estar a la vanguardia de los avances tecnológicos. Busco un **equilibrio óptimo** en el desarrollo de software, priorizando la eficiencia y la innovación. Además, me aseguro de aplicar las mejores prácticas en cada proyecto en el que trabajo.
+<div align="center">
 
+[![GitHub followers](https://img.shields.io/github/followers/Lostovayne?style=social)](https://github.com/Lostovayne)
+[![Twitter Follow](https://img.shields.io/twitter/follow/DeusLoVult?style=social)]([https://x.com/Play10Never])
 
-## 🐳 Mis últimos proyectos generales usan tecnologías tales como:
+</div>
 
-<div style="display:flex;padding-left:20px;padding-right:40px;padding-bottom:1px;gap:8px">
+## 💻 Stack Tecnológico
 
-
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![TailwindCss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+### Frontend
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![ReactNative](	https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-F96854?style=for-the-badge&logo=hono&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23EF4223.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Upstash](https://img.shields.io/badge/Upstash-6DA55F?style=for-the-badge&logo=upstash&logoColor=white)
-![Sanity](https://img.shields.io/badge/Sanity-%23EF4223.svg?style=for-the-badge&logo=sanity&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk_Auth-007ACC?style=for-the-badge&logo=clerk&logoColor=white)
-![ShadCn](https://img.shields.io/badge/ShadCn-00000F?style=for-the-badge&logo=shadcn_ui&logoColor=white)
-![Convex](https://img.shields.io/badge/Convex-black?style=for-the-badge&logo=convex&logoColor=white)
-![Motion](https://img.shields.io/badge/Motion-3982CE?style=for-the-badge&logo=framer&logoColor=white)
-
-
-
-
-
-
-
-
-
-
-</div>
-
-- High-Performance-Api : [Repositorio](https://github.com/Lostovayne/High-Performance-Api) | [Demo](https://api-sooty-eta.vercel.app/)
-- Tienda de Ropa Completa con Sistema de Pagos : [Repositorio](https://github.com/Lostovayne/Tienda-de-Ropa-Tesla-Shop-usando-Next-14) | [Demo](https://github.com/Lostovayne/Tienda-de-Ropa-Tesla-Shop-usando-Next-14)
-- Página Web de Concesionario de Vehículos : [Repositorio](https://github.com/Lostovayne/Tienda-de-Vehiculos-Next-13-Typescript-y-Tailwind) | [Demo](https://concesionario-de-vehiculos.vercel.app)
-- Gestión Avanzada de AuthJs con Acciones en el Servidor : [Repositorio](https://github.com/Lostovayne/Next-Auth-V5-Usando-Next-14-Avanzado) | [Demo](https://github.com/Lostovayne/Next-Auth-V5-Usando-Next-14-Avanzado)
-- Clon de Twitter con Next.js 14 : [Repositorio](https://github.com/Lostovayne/Clon-de-Twitter-con-Next-14) | [Demo](https://clon-de-twitter.vercel.app/)
-- Sistema de Autenticación con Node.js y Arquitectura Limpia : [Repositorio](https://github.com/Lostovayne/Sistema-de-Autenticacion-usando-Node-Ts-y-Clean-Arquitecture)
-- React con OpenAI, NestJS y Varios Modelos GPT : [Repositorio](https://github.com/Lostovayne/React-usando-React-Router-dom-Tailwind-Typescript-e-integraciones-de-Openai-para-modelos) | [Demo](https://react-gpt-weld.vercel.app/)
-
-
-
-## 💾 Software como servicio (SaaS) + Despliegues escalables
-
-<div style="display:flex;padding-left:20px;padding-right:40px;padding-bottom:10px;gap:8px" >
-
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
-![Tanstack Query](https://img.shields.io/badge/-Tanstack-FF4154?style=for-the-badge&logo=react&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
-
-- Creacion de Compañeros Impulsados por IA : [Repositorio](https://github.com/Lostovayne/SaaS-AI-Companion) | [Deploy](https://ai-companion-khalest.vercel.app/)
-- Clon de Notion + Auth con Clerk y ShadCn: [Repositorio](https://github.com/Lostovayne/Clon-de-Notion-con-Next14-Tailwind-Typescript) | [Deploy](https://jotion-dev-nine.vercel.app)
-- Clon de Trello + Auth con Clerk Prisma: [Repositorio](https://github.com/Lostovayne/Clon-de-Trello-Next-14-Tailwind-Typescript-Prisma) | [Deploy]()
-- Clon de Slack + Real Time : [Repositorio](https://github.com/Lostovayne/build-slack-clone) | [Deploy]()
-
-
-## 📃 Landing Pages en Producción
-<div style="display:flex;padding-left:20px;padding-right:40px;padding-bottom:1px;gap:8px">
-
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-</div>
+![ShadCn](https://img.shields.io/badge/ShadCn-00000F?style=for-the-badge&logo=shadcn_ui&logoColor=white)
+![Motion](https://img.shields.io/badge/Motion-3982CE?style=for-the-badge&logo=framer&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-- Web de la Velada del Año IV: [Demo](https://khalest.cloud)
-- Banco digital e inversiones : [Demo](https://cash-bank.pages.dev/)
-- Venta de Vehiculos modernos : [Demo](https://github.com/Lostovayne/car-website)
-- Chatear con PDF en Cloudinary : [Demo](https://chat-con-pdf-astro.pages.dev/)
-- Compañia de Vehiculos : [Demo](https://vcompany.pages.dev/)
-- Landing Page de Tesla : [Demo](https://tesladl.pages.dev/)
-- Dark Site Blockchain : [Demo]()
-- Página de Anime : [Demo](https://anime-next14.vercel.app)
+### Backend
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-F96854?style=for-the-badge&logo=hono&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
+### Bases de Datos
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23EF4223.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-## 🚀 Mis Proyectos en Backend + Microservicios
-
-<div style="display:flex;padding-left:20px;padding-right:40px;padding-bottom:10px;gap:8px" >
-
+### Cloud & Deployment
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### Testing & Tools
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## 🌟 Proyectos Destacados
+
+### SaaS y Aplicaciones Empresariales
+1. **[AI Companion Creator](https://ai-companion-khalest.vercel.app/)** - Plataforma para crear compañeros virtuales con IA
+   - `Next.js` `TypeScript` `Prisma` `OpenAI`
+   - [Código Fuente](https://github.com/Lostovayne/SaaS-AI-Companion)
+
+2. **[Notion Clone](https://jotion-dev-nine.vercel.app)** - Sistema de notas colaborativo
+   - `Next.js` `Clerk Auth` `ShadCn` `Real-time sync`
+   - [Código Fuente](https://github.com/Lostovayne/Clon-de-Notion-con-Next14-Tailwind-Typescript)
+
+3. **[Trello Clone](https://github.com/Lostovayne/Clon-de-Trello-Next-14-Tailwind-Typescript-Prisma)** - Gestión de proyectos
+   - `Next.js` `Clerk Auth` `Prisma` `Drag & Drop`
+   - Sistema de tableros y tarjetas en tiempo real
+
+4. **[Slack Clone](https://github.com/Lostovayne/build-slack-clone)** - Comunicación en tiempo real
+   - `Next.js` `Socket.io` `Real-time chat`
+   - Mensajería instantánea y canales de comunicación
+
+5. **[Twitter Clone](https://clon-de-twitter.vercel.app/)** - Red social
+   - `Next.js 14` `Real-time updates` `Social features`
+   - [Código Fuente](https://github.com/Lostovayne/Clon-de-Twitter-con-Next-14)
+
+### E-commerce y Sistemas de Pago
+1. **[Tesla Shop](https://github.com/Lostovayne/Tienda-de-Ropa-Tesla-Shop-usando-Next-14)**
+   - Sistema completo de e-commerce con pagos integrados
+   - `Next.js` `Stripe` `TypeScript`
+
+2. **[Concesionario Virtual](https://concesionario-de-vehiculos.vercel.app)**
+   - Plataforma de venta de vehículos
+   - [Código Fuente](https://github.com/Lostovayne/Tienda-de-Vehiculos-Next-13-Typescript-y-Tailwind)
+
+### APIs y Microservicios
+1. **[High Performance API](https://api-sooty-eta.vercel.app/)**
+   - API optimizada para alto rendimiento
+   - [Código Fuente](https://github.com/Lostovayne/High-Performance-Api)
+
+2. **[Auth System](https://github.com/Lostovayne/Sistema-de-Autenticacion-usando-Node-Ts-y-Clean-Arquitecture)**
+   - Sistema de autenticación con arquitectura limpia
+   - `Node.js` `TypeScript` `Clean Architecture`
+
+3. **[Full Stack SPA](https://github.com/Lostovayne/Proyecto-Full-Stack-Spa-en-React-con-Hono-y-Bun)**
+   - Aplicación de una sola página con arquitectura moderna
+   - `Hono` `Bun` `React` `Zod` `Drizzle` `Kinde`
+
+### Landing Pages en Producción
+1. **[La Velada del Año IV](https://khalest.cloud)**
+   - Landing page para evento de boxeo
+   - `Astro` `TypeScript` `Tailwind`
+
+2. **[Cash Bank](https://cash-bank.pages.dev/)**
+   - Plataforma bancaria digital
+   - `Next.js` `Tailwind` `Framer Motion`
+
+3. **[Tesla Landing](https://tesladl.pages.dev/)**
+   - Réplica de la landing page de Tesla
+   - `Astro` `Tailwind` `Animations`
+
+4. **[Anime Portal](https://anime-next14.vercel.app)**
+   - Portal de contenido de anime
+   - `Next.js 14` `API Integration`
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lostovayne&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lostovayne&theme=radical" alt="GitHub Streak" />
+</div>
+
+## 📫 Contacto
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuLinkedIn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://tuportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
 
 </div>
 
-- Full Stack SPA usando Hono + Bun + React + Zod + Drizzle + Kinde : [Repositorio](https://github.com/Lostovayne/Proyecto-Full-Stack-Spa-en-React-con-Hono-y-Bun)
-- Fast Api con Hono + Next14 + Cloudflare Workers: [Repositorio](https://github.com/Lostovayne/Fast-Api-Usando-Hono-y-Next14-en-Cloudflare-Workers)
-- Servidor Web + Rest Clean : [Repositorio](https://github.com/Lostovayne/Servidor-Rest-y-web-con-posgresql-prisma-Nodejs-Typescript)
-- Servidor Rest + Mongodb + Docker: [Repositorio](https://github.com/Lostovayne/Autenticacion-usando-Node-con-Typescript-y-Mongodb-con-Arquitectura)
-- Api Rest Movies + Mysql + MVC: [Repositorio](https://github.com/Lostovayne/Api-Rest-Midu-Usando-Zod)
-- Api Cats and Users Nest + Arquitectura Clean, Patron Repository: [Repositorio](https://github.com/Lostovayne/Api-Rest-Cat-con-NestJs-MySql-TypeOrm-y-Typescript)
-
-
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-
-</tr>
-</table>
-
-</p>        
-<!--- stats (end) -->
-
-<p align="center">
-Escribir buen código es como componer una sinfonía: requiere de habilidad, paciencia y atención al detalle, pero el resultado final es una obra maestra que perdura en el tiempo y es admirada por todos
-  
-</p>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+<div align="center">
+  <sub>💼 Abierto a oportunidades laborales | 🤝 Disponible para colaboraciones</sub>
+</div>
