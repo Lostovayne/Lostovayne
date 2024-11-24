@@ -97,6 +97,9 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y es
 5. **[Twitter Clone](https://clon-de-twitter.vercel.app/)** - Red social
    - `Next.js 14` `Real-time updates` `Social features`
    - [Código Fuente](https://github.com/Lostovayne/Clon-de-Twitter-con-Next-14)
+6. **[Startup Directory Platform](https://github.com/Lostovayne/YCDirectory)**
+   - `Sanity` `Next.js 15` `Typescript` `Real-time updates`
+   - [Código Fuente](https://github.com/Lostovayne/YCDirectory) 
 
 ### E-commerce y Sistemas de Pago
 1. **[Tesla Shop](https://github.com/Lostovayne/Tienda-de-Ropa-Tesla-Shop-usando-Next-14)**
