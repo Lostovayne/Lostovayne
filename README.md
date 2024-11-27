@@ -122,6 +122,10 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y es
 3. **[Full Stack SPA](https://github.com/Lostovayne/Proyecto-Full-Stack-Spa-en-React-con-Hono-y-Bun)**
    - Aplicación de una sola página con arquitectura moderna
    - `Hono` `Bun` `React` `Zod` `Drizzle` `Kinde`
+4. **[Full Search with AI](https://github.com/Lostovayne/Search-Products-With-Nextjs)**
+   - Busqueda de productos en una base de datos postgresql
+   - Uso de Vectores para buscar productos con similitudes
+   - `Next 15` `Typescript` `Tailwind` `PostgreSql` `Drizzle` `Upstash`
 
 ### Landing Pages en Producción
 1. **[La Velada del Año IV](https://khalest.cloud)**
