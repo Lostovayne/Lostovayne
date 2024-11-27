@@ -78,7 +78,7 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y es
 ## 🌟 Proyectos Destacados
 
 ### SaaS y Aplicaciones Empresariales
-1. **[AI Companion Creator](https://ai-companion-khalest.vercel.app/)** - Plataforma para crear compañeros virtuales con IA
+1. **[AI Companion Creator](https://e-compa.vercel.app/)** - Plataforma para crear compañeros virtuales con IA
    - `Next.js` `TypeScript` `Prisma` `OpenAI`
    - [Código Fuente](https://github.com/Lostovayne/SaaS-AI-Companion)
 
