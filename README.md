@@ -145,6 +145,11 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y es
 4. **[Anime Portal](https://anime-next14.vercel.app)**
    - Portal de contenido de anime
    - `Next.js 14` `API Integration`
+   
+5. **[BlockForge](https://dark-blockchain.vercel.app/)**
+  - As a decentralized blockchain scaling platform
+  - `Astro` `React` `Framer Motion` `Tailwind`
+  - [Código fuente](https://github.com/Lostovayne/Dark-SaaS-Blockchain-Site)
 
 ## 📊 Estadísticas de GitHub
 
