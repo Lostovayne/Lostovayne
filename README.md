@@ -31,6 +31,7 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y es
 ## 💻 Stack Tecnológico
 
 ### Frontend
+
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
@@ -45,6 +46,7 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y es
 ![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 ### Backend
+
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -56,6 +58,7 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y es
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
 ### Bases de Datos
+
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -63,6 +66,7 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y es
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Cloud & Deployment
+
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -70,27 +74,52 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y es
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### Testing & Tools
+
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+## 🏗️ Arquitectura e Infraestructura
+
+Mis proyectos implementan arquitecturas modernas y robustas utilizando:
+
+- 🌩️ **Cloudflare Workers** para edge computing y mejor rendimiento global
+- 📦 **Docker** para containerización y despliegues consistentes
+- 💾 **Cloudflare R2 & AWS S3** para almacenamiento escalable de objetos
+- 🔄 **CI/CD** con GitHub Actions y despliegues automatizados
+- 🔒 **Seguridad** implementada siguiendo las mejores prácticas
+
+## 🎯 Características de mis Proyectos
+
+- ✅ **Soluciones End-to-End**: Desarrollo completo desde el frontend hasta la infraestructura
+- 🚀 **Production-Ready**: Implementaciones listas para producción con monitoreo y logging
+- 📈 **Escalables**: Arquitecturas diseñadas para crecer con tu negocio
+- 🔐 **Seguros**: Mejores prácticas de seguridad y manejo de datos
+- 📱 **Responsive**: Diseño adaptativo para todas las plataformas
+- 🌐 **Multiregión**: Despliegues globales para mejor rendimiento
+
 ## 🌟 Proyectos Destacados
 
 ### SaaS y Aplicaciones Empresariales
+
 1. **[AI Companion Creator](https://e-compa.vercel.app/)** - Plataforma para crear compañeros virtuales con IA
+
    - `Next.js` `TypeScript` `Prisma` `OpenAI`
    - [Código Fuente](https://github.com/Lostovayne/SaaS-AI-Companion)
 
 2. **[Notion Clone](https://jotion-dev-nine.vercel.app)** - Sistema de notas colaborativo
+
    - `Next.js` `Clerk Auth` `ShadCn` `Real-time sync`
    - [Código Fuente](https://github.com/Lostovayne/Clon-de-Notion-con-Next14-Tailwind-Typescript)
 
 3. **[Trello Clone](https://github.com/Lostovayne/Clon-de-Trello-Next-14-Tailwind-Typescript-Prisma)** - Gestión de proyectos
+
    - `Next.js` `Clerk Auth` `Prisma` `Drag & Drop`
    - Sistema de tableros y tarjetas en tiempo real
 
 4. **[Slack Clone](https://github.com/Lostovayne/build-slack-clone)** - Comunicación en tiempo real
+
    - `Next.js` `Socket.io` `Real-time chat`
    - Mensajería instantánea y canales de comunicación
 
@@ -99,15 +128,16 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y es
    - [Código Fuente](https://github.com/Lostovayne/Clon-de-Twitter-con-Next-14)
 6. **[Startup Directory Platform](https://github.com/Lostovayne/YCDirectory)**
    - `Sanity` `Next.js 15` `Typescript` `Real-time updates`
-   - [Código Fuente](https://github.com/Lostovayne/YCDirectory) 
+   - [Código Fuente](https://github.com/Lostovayne/YCDirectory)
 
 ### E-commerce y Sistemas de Pago
+
 1. **[Shoper](https://...)**
    - Sistema completo de e-commerce en tiempo real con cms integrado
    - `Next 15` `Stripe` `TypeScript` `Sanity` `Real Time`
    - [Código fuente](https://github.com/Lostovayne/Full-Stack-E-Commerce)
-     
 2. **[Tesla Shop](https://github.com/Lostovayne/Tienda-de-Ropa-Tesla-Shop-usando-Next-14)**
+
    - Sistema completo de e-commerce con pagos integrados
    - `Next.js` `Stripe` `TypeScript`
 
@@ -116,18 +146,20 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y es
    - [Código Fuente](https://github.com/Lostovayne/Tienda-de-Vehiculos-Next-13-Typescript-y-Tailwind)
 
 ### APIs y Microservicios
+
 1. **[High Performance API](https://api-sooty-eta.vercel.app/)**
+
    - API optimizada para alto rendimiento
    - [Código Fuente](https://github.com/Lostovayne/High-Performance-Api)
 
 2. **[Auth System](https://github.com/Lostovayne/Sistema-de-Autenticacion-usando-Node-Ts-y-Clean-Arquitecture)**
+
    - Sistema de autenticación con arquitectura limpia
    - `Node.js` `TypeScript` `Clean Architecture`
 
 3. **[Full Stack SPA](https://github.com/Lostovayne/Proyecto-Full-Stack-Spa-en-React-con-Hono-y-Bun)**
    - Aplicación de una sola página con arquitectura moderna
    - `Hono` `Bun` `React` `Zod` `Drizzle` `Kinde`
-     
 4. **[Full Search with AI](https://search-products-three.vercel.app/)**
    - Busqueda de productos en una base de datos postgresql
    - Uso de Vectores para buscar productos con similitudes
@@ -135,26 +167,30 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y es
    - [Código Fuente](https://github.com/Lostovayne/Search-Products-With-Nextjs)
 
 ### Landing Pages en Producción
+
 1. **[La Velada del Año IV](https://khalest.cloud)**
+
    - Landing page para evento de boxeo
    - `Astro` `TypeScript` `Tailwind`
 
 2. **[Cash Bank](https://cash-bank.pages.dev/)**
+
    - Plataforma bancaria digital
    - `Next.js` `Tailwind` `Framer Motion`
 
 3. **[Tesla Landing](https://tesladl.pages.dev/)**
+
    - Réplica de la landing page de Tesla
    - `Astro` `Tailwind` `Animations`
 
 4. **[Anime Portal](https://anime-next14.vercel.app)**
    - Portal de contenido de anime
    - `Next.js 14` `API Integration`
-   
 5. **[BlockForge](https://dark-blockchain.vercel.app/)**
-  - As a decentralized blockchain scaling platform
-  - `Astro` `React` `Framer Motion` `Tailwind`
-  - [Código fuente](https://github.com/Lostovayne/Dark-SaaS-Blockchain-Site)
+
+- As a decentralized blockchain scaling platform
+- `Astro` `React` `Framer Motion` `Tailwind`
+- [Código fuente](https://github.com/Lostovayne/Dark-SaaS-Blockchain-Site)
 
 ## 📊 Estadísticas de GitHub
 
@@ -174,6 +210,7 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y es
 </div>
 
 ---
+
 <div align="center">
   <sub>💼 Abierto a oportunidades laborales | 🤝 Disponible para colaboraciones</sub>
 </div>
