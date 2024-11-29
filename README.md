@@ -102,11 +102,16 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y es
    - [Código Fuente](https://github.com/Lostovayne/YCDirectory) 
 
 ### E-commerce y Sistemas de Pago
-1. **[Tesla Shop](https://github.com/Lostovayne/Tienda-de-Ropa-Tesla-Shop-usando-Next-14)**
+1. **[Shoper](https://...)**
+   - Sistema completo de e-commerce en tiempo real con cms integrado
+   - `Next 15` `Stripe` `TypeScript` `Sanity` `Real Time`
+   - [Código fuente](https://github.com/Lostovayne/Full-Stack-E-Commerce)
+     
+2. **[Tesla Shop](https://github.com/Lostovayne/Tienda-de-Ropa-Tesla-Shop-usando-Next-14)**
    - Sistema completo de e-commerce con pagos integrados
    - `Next.js` `Stripe` `TypeScript`
 
-2. **[Concesionario Virtual](https://concesionario-de-vehiculos.vercel.app)**
+3. **[Concesionario Virtual](https://concesionario-de-vehiculos.vercel.app)**
    - Plataforma de venta de vehículos
    - [Código Fuente](https://github.com/Lostovayne/Tienda-de-Vehiculos-Next-13-Typescript-y-Tailwind)
 
