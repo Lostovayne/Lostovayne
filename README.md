@@ -24,7 +24,7 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y es
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/Lostovayne?style=social)](https://github.com/Lostovayne)
-[![Twitter Follow](https://img.shields.io/twitter/follow/DeusLoVult?style=social)]([https://x.com/Play10Never])
+[![Twitter Follow](https://img.shields.io/twitter/follow/Play10Never?style=social)]([https://x.com/Play10Never])
 
 </div>
 
