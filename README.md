@@ -123,12 +123,21 @@ Mis proyectos implementan arquitecturas modernas y robustas utilizando:
    - `Next.js` `Socket.io` `Real-time chat`
    - Mensajería instantánea y canales de comunicación
 
-5. **[Twitter Clone](https://clon-de-twitter.vercel.app/)** - Red social
-   - `Next.js 14` `Real-time updates` `Social features`
-   - [Código Fuente](https://github.com/Lostovayne/Clon-de-Twitter-con-Next-14)
-6. **[Startup Directory Platform](https://github.com/Lostovayne/YCDirectory)**
+5. **[Startup Directory Platform](https://github.com/Lostovayne/YCDirectory)**
+
    - `Sanity` `Next.js 15` `Typescript` `Real-time updates`
    - [Código Fuente](https://github.com/Lostovayne/YCDirectory)
+
+6. **Build a Real-Time Google Docs Clone**
+
+   - Sistema colaborativo de documentos en tiempo real
+   - `Next 15` `React` `Tailwind` `Real-time collaboration`
+   - Editor de texto colaborativo con actualizaciones en tiempo real
+
+7. **SaaS for real-time event notifications**
+   - Plataforma de notificaciones en tiempo real
+   - `Next.js` `Tailwind` `React` `Hono` `WebSockets`
+   - Sistema escalable de notificaciones para aplicaciones web
 
 ### E-commerce y Sistemas de Pago
 
@@ -141,11 +150,7 @@ Mis proyectos implementan arquitecturas modernas y robustas utilizando:
    - Sistema completo de e-commerce con pagos integrados
    - `Next.js` `Stripe` `TypeScript`
 
-3. **[Concesionario Virtual](https://concesionario-de-vehiculos.vercel.app)**
-   - Plataforma de venta de vehículos
-   - [Código Fuente](https://github.com/Lostovayne/Tienda-de-Vehiculos-Next-13-Typescript-y-Tailwind)
-
-### APIs y Microservicios
+### Backends, APIs y Microservicios
 
 1. **[High Performance API](https://api-sooty-eta.vercel.app/)**
 
@@ -166,7 +171,7 @@ Mis proyectos implementan arquitecturas modernas y robustas utilizando:
    - `Next 15` `Typescript` `Tailwind` `PostgreSql` `Drizzle` `Upstash`
    - [Código Fuente](https://github.com/Lostovayne/Search-Products-With-Nextjs)
 
-### Landing Pages en Producción
+### Landing Pages y webs desplegadas
 
 1. **[La Velada del Año IV](https://khalest.cloud)**
 
@@ -184,13 +189,20 @@ Mis proyectos implementan arquitecturas modernas y robustas utilizando:
    - `Astro` `Tailwind` `Animations`
 
 4. **[Anime Portal](https://anime-next14.vercel.app)**
+
    - Portal de contenido de anime
    - `Next.js 14` `API Integration`
+
 5. **[BlockForge](https://dark-blockchain.vercel.app/)**
 
-- As a decentralized blockchain scaling platform
-- `Astro` `React` `Framer Motion` `Tailwind`
-- [Código fuente](https://github.com/Lostovayne/Dark-SaaS-Blockchain-Site)
+   - As a decentralized blockchain scaling platform
+   - `Astro` `React` `Framer Motion` `Tailwind`
+   - [Código fuente](https://github.com/Lostovayne/Dark-SaaS-Blockchain-Site)
+
+6. **Awwwards Winning Website**
+   - Sitio web con diseño premiado y animaciones avanzadas
+   - `React.js` `Tailwind CSS` `GSAP`
+   - Experiencia de usuario inmersiva con animaciones fluidas
 
 ## 📊 Estadísticas de GitHub
 
@@ -205,7 +217,7 @@ Mis proyectos implementan arquitecturas modernas y robustas utilizando:
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-barrera-riffo/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://tuportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frankhx018@gmail.com)
 
 </div>
 
