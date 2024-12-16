@@ -1,4 +1,8 @@
-# <div align="center">👨‍💻 Franko | Desarrollador Web Full Stack</div>
+# <div align="center">
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&random=false&width=1000&height=100&lines=Franko+Barrera;Full+Stack+Developer+%26+Software+Architect;Building+Modern+%26+Scalable+Solutions" alt="Typing SVG" />
+</h1>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
