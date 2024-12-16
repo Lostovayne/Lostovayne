@@ -103,41 +103,26 @@ Mis proyectos implementan arquitecturas modernas y robustas utilizando:
 
 ### SaaS y Aplicaciones Empresariales
 
-1. **[AI Companion Creator](https://e-compa.vercel.app/)** - Plataforma para crear compañeros virtuales con IA
-
-   - `Next.js` `TypeScript` `Prisma` `OpenAI`
+1. **[SaaS Platform: GPT-Powered Context-Based Chat Management](https://e-compa.vercel.app/)**
    - [Código Fuente](https://github.com/Lostovayne/SaaS-AI-Companion)
 
-2. **[Notion Clone](https://jotion-dev-nine.vercel.app)** - Sistema de notas colaborativo
-
-   - `Next.js` `Clerk Auth` `ShadCn` `Real-time sync`
+2. **[Notion Clone: Real-Time Collaboration & Secure Authentication ](https://jotion-dev-nine.vercel.app)**
    - [Código Fuente](https://github.com/Lostovayne/Clon-de-Notion-con-Next14-Tailwind-Typescript)
 
-3. **[Trello Clone](https://github.com/Lostovayne/Clon-de-Trello-Next-14-Tailwind-Typescript-Prisma)** - Gestión de proyectos
+3. **[Trello Clone: Seamless Task Management with Server Actions & Secure Authentication](https://github.com/Lostovayne/Clon-de-Trello-Next-14-Tailwind-Typescript-Prisma)**
+    - [Código Fuente](https://github.com/Lostovayne/)
 
-   - `Next.js` `Clerk Auth` `Prisma` `Drag & Drop`
-   - Sistema de tableros y tarjetas en tiempo real
-
-4. **[Slack Clone](https://github.com/Lostovayne/build-slack-clone)** - Comunicación en tiempo real
-
-   - `Next.js` `Socket.io` `Real-time chat`
-   - Mensajería instantánea y canales de comunicación
+4. **[Slack Clone: Enhanced UI & Seamless SaaS Experience](https://github.com/Lostovayne/build-slack-clone)** 
+   - [Código Fuente](https://github.com/Lostovayne/)
 
 5. **[Startup Directory Platform](https://github.com/Lostovayne/YCDirectory)**
-
-   - `Sanity` `Next.js 15` `Typescript` `Real-time updates`
    - [Código Fuente](https://github.com/Lostovayne/YCDirectory)
 
 6. **Build a Real-Time Google Docs Clone**
-
-   - Sistema colaborativo de documentos en tiempo real
-   - `Next 15` `React` `Tailwind` `Real-time collaboration`
-   - Editor de texto colaborativo con actualizaciones en tiempo real
+   - [Código Fuente](https://github.com/Lostovayne/)
 
 7. **SaaS for real-time event notifications**
-   - Plataforma de notificaciones en tiempo real
-   - `Next.js` `Tailwind` `React` `Hono` `WebSockets`
-   - Sistema escalable de notificaciones para aplicaciones web
+   - [Código Fuente](https://github.com/Lostovayne/)
 
 ### E-commerce y Sistemas de Pago
 
