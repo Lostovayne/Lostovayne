@@ -133,7 +133,7 @@ Mis proyectos implementan arquitecturas modernas y robustas utilizando:
    - `Sanity` `Next.js 15` `Typescript` `Real-time updates`
    - [Código Fuente](https://github.com/Lostovayne/YCDirectory)
 
-6. **Build a Real-Time Google Docs Clone**
+6. **[Build a Real-Time Google Docs Clone](https://google-docs-beige.vercel.app/documents/1234)**
    - Sistema colaborativo de documentos en tiempo real
    - `Next 15` `React` `Tailwind` `Real-time collaboration`
    - Editor de texto colaborativo con actualizaciones en tiempo real
