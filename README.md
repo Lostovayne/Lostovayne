@@ -149,7 +149,7 @@ Mis proyectos implementan arquitecturas modernas y robustas utilizando:
 
 ### E-commerce y Sistemas de Pago
 
-1. **[Shoper](https://...)**
+1. **[Shoper](https://shoper-store.vercel.app/)**
    - Sistema completo de e-commerce en tiempo real con cms integrado
    - `Next 15` `Stripe` `TypeScript` `Sanity` `Real Time`
    - [Código fuente](https://github.com/Lostovayne/Full-Stack-E-Commerce)
