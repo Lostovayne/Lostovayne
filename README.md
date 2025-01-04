@@ -129,7 +129,7 @@ Mis proyectos implementan arquitecturas modernas y robustas utilizando:
    - Mensajería instantánea y canales de comunicación
    - [Código Fuente](https://github.com/Lostovayne/)
 
-5. **[Startup Directory Platform](https://github.com/Lostovayne/YCDirectory)**
+5. **[Startup Directory Platform](https://yc-directory-topaz.vercel.app/)**
    - `Sanity` `Next.js 15` `Typescript` `Real-time updates`
    - [Código Fuente](https://github.com/Lostovayne/YCDirectory)
 
