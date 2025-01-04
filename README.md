@@ -123,7 +123,7 @@ Mis proyectos implementan arquitecturas modernas y robustas utilizando:
    - Sistema de tableros y tarjetas en tiempo real
     - [Código Fuente](https://github.com/Lostovayne/)
 
-4. **[Slack Clone: Enhanced UI & Seamless SaaS Experience](https://github.com/Lostovayne/build-slack-clone)**
+4. **[Slack Clone: Enhanced UI & Seamless SaaS Experience](https://epsaslack.vercel.app/)**
    - Comunicación en tiempo real
    - `Next.js` `Socket.io` `Real-time chat`
    - Mensajería instantánea y canales de comunicación
