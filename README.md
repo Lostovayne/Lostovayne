@@ -112,7 +112,7 @@ Mis proyectos implementan arquitecturas modernas y robustas utilizando:
    - `Next.js` `TypeScript` `Prisma` `OpenAI`
    - [Código Fuente](https://github.com/Lostovayne/SaaS-AI-Companion)
 
-2. **[Notion Clone: Real-Time Collaboration & Secure Authentication](https://jotion-dev-nine.vercel.app)**
+2. **[Notion Clone: Real-Time Collaboration & Secure Authentication](https://www.murkiva.cloud/)**
    - Sistema de notas colaborativo
    - `Next.js` `Clerk Auth` `ShadCn` `Real-time sync`
    - [Código Fuente](https://github.com/Lostovayne/Clon-de-Notion-con-Next14-Tailwind-Typescript)
