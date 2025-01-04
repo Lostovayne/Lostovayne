@@ -169,10 +169,7 @@ Mis proyectos implementan arquitecturas modernas y robustas utilizando:
 
    - Sistema de autenticación con arquitectura limpia
    - `Node.js` `TypeScript` `Clean Architecture`
-
-3. **[Full Stack SPA](https://github.com/Lostovayne/Proyecto-Full-Stack-Spa-en-React-con-Hono-y-Bun)**
-   - Aplicación de una sola página con arquitectura moderna
-   - `Hono` `Bun` `React` `Zod` `Drizzle` `Kinde`
+     
 4. **[Full Search with AI](https://search-products-three.vercel.app/)**
    - Busqueda de productos en una base de datos postgresql
    - Uso de Vectores para buscar productos con similitudes
