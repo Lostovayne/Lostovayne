@@ -33,61 +33,60 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y es
 </div>
 
 
+## Tech Stack
 
-## 💻 Stack Tecnológico
-
-| **Categoría**       | **Tecnologías**                                                                                                           |
+| **Category**       | **Technologies**                                                                                                           |
 |---------------------|---------------------------------------------------------------------------------------------------------------------------|
-| **Frontend**        | ⚡ **Next.js**, ⚛️ **React**, 🚀 **Astro**, 📘 **TypeScript**, 🎨 **TailwindCSS**, 🖌️ **ShadCN**, 🎥 **Framer Motion**, ⚡ **Three.js** |
-| **Backend**         | 🌐 **Node.js**, ⚡ **Hono**, 🏗️ **NestJS**, 🛠️ **Express.js**, 🐍 **Django**, ⚡ **Bun**, 🌟 **Prisma**                           |
-| **Bases de Datos**  | 🐘 **PostgreSQL**, 🍃 **MongoDB**, 🐬 **MySQL**, 🔥 **Redis**, 🟢 **Supabase**                                               |
-| **Cloud & Deploy**  | ☁️ **Cloudflare Workers**, 🌐 **Cloudflare Pages**, 🖥️ **Vercel**, 🐳 **Docker**, 🔶 **AWS**                                  |
-| **Testing & Tools** | 🧪 **Jest**, 📚 **Testing Library**, 🛠️ **Postman**, 🔗 **Git**                                                             |
-
----
-
-### ✨ Tecnologías Principales
-🌟 **Frontend**  
-- **Especializado en:**  
-   - Frameworks modernos como **Next.js** y **React**, creando interfaces rápidas y dinámicas.  
-   - Diseño adaptable con **TailwindCSS** y componentes personalizados con **ShadCN**.  
-   - Animaciones fluidas usando **Framer Motion**.  
-
-🌟 **Backend**  
-- **Experiencia sólida en:**  
-   - Frameworks ligeros como **Hono** para microservicios rápidos.  
-   - Desarrollo con **Node.js** y rendimiento superior con **Bun**.  
-   - Diseño de APIs backend escalables con **NestJS** y **Express.js**.  
-   - Bases de datos relacionales y no relacionales optimizadas con **PostgreSQL** y **MongoDB**.  
-
-🌟 **Cloud & Deployment**  
-- **Implementaciones rápidas y escalables con:**  
-   - **Cloudflare Workers** para ejecución eficiente de funciones en el edge.  
-   - **Cloudflare Pages** para el despliegue estático optimizado.  
-   - Contenedores con **Docker** y arquitecturas robustas en **AWS**.  
-   - Hosting frontend ágil con **Vercel**.  
+| **Frontend**        | Next.js, React, Astro, TypeScript, TailwindCSS, ShadCN, Framer Motion, Three.js                                           |
+| **Backend**         | Node.js, Hono, NestJS, Express.js, Django, Bun, Prisma                                                                    |
+| **Databases**       | PostgreSQL, MongoDB, MySQL, Redis, Supabase                                                                               |
+| **Cloud & Deployment** | Cloudflare Workers, Cloudflare Pages, Vercel, Docker, AWS                                                               |
+| **Testing & Tools** | Jest, Testing Library, Postman, Git                                                                                       |
 
 
-## 🏗️ Arquitectura e Infraestructura
 
-Mis proyectos implementan arquitecturas modernas y robustas utilizando:
+### Core Technologies
 
-- 🌩️ **Cloudflare Workers** para edge computing y mejor rendimiento global
-- 📦 **Docker** para containerización y despliegues consistentes
-- 💾 **Cloudflare R2 & AWS S3** para almacenamiento escalable de objetos
-- 🔄 **CI/CD** con GitHub Actions y despliegues automatizados
-- 🔒 **Seguridad** implementada siguiendo las mejores prácticas
+#### Frontend
+- Leveraging modern frameworks like Next.js and React for building fast, dynamic web applications.
+- Creating responsive and visually appealing designs using TailwindCSS and custom ShadCN components.
+- Enhancing user experience with smooth animations powered by Framer Motion.
 
-## 🎯 Características de mis Proyectos
+#### Backend
+- Utilizing lightweight frameworks like Hono for fast and efficient microservices.
+- Building robust backend systems with Node.js and optimizing performance using Bun.
+- Developing scalable APIs with NestJS and Express.js.
+- Expertise in managing relational (PostgreSQL) and non-relational (MongoDB) databases.
 
-- ✅ **Soluciones End-to-End**: Desarrollo completo desde el frontend hasta la infraestructura
-- 🚀 **Production-Ready**: Implementaciones listas para producción con monitoreo y logging
-- 📈 **Escalables**: Arquitecturas diseñadas para crecer con tu negocio
-- 🔐 **Seguros**: Mejores prácticas de seguridad y manejo de datos
-- 📱 **Responsive**: Diseño adaptativo para todas las plataformas
-- 🌐 **Multiregión**: Despliegues globales para mejor rendimiento
+#### Cloud & Deployment
+- Implementing scalable, cloud-based solutions with Cloudflare Workers and Pages.
+- Containerizing applications using Docker for consistent deployments.
+- Hosting and deploying projects efficiently with Vercel and AWS.
 
-## 🌟 Proyectos Destacados
+
+## Architecture & Infrastructure
+
+I design and implement modern, reliable architectures that include:
+
+- Cloudflare Workers for edge computing and optimized global performance.
+- Docker to ensure consistent and reliable deployments.
+- Cloudflare R2 and AWS S3 for scalable object storage.
+- CI/CD workflows using GitHub Actions for automation.
+- Security best practices to safeguard applications and data.
+
+
+
+## Key Features of My Projects
+
+- **End-to-End Solutions**: Comprehensive development from frontend to backend, including infrastructure.
+- **Production-Ready**: Optimized for production with robust monitoring and logging.
+- **Scalability**: Architectures designed to grow and adapt with business needs.
+- **Enhanced Security**: Implementing industry-standard security measures.
+- **Responsive Design**: Ensuring seamless experiences across all devices.
+- **Global Reach**: Multi-region deployments for optimal performance worldwide.
+
+
+##  Proyectos Destacados
 
 ### SaaS y Aplicaciones Empresariales
 
