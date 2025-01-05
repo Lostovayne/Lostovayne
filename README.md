@@ -32,57 +32,41 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y es
 
 </div>
 
+
+
 ## 💻 Stack Tecnológico
 
-### Frontend
+| **Categoría**       | **Tecnologías**                                                                                                           |
+|---------------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Frontend**        | ⚡ **Next.js**, ⚛️ **React**, 🚀 **Astro**, 📘 **TypeScript**, 🎨 **TailwindCSS**, 🖌️ **ShadCN**, 🎥 **Framer Motion**, ⚡ **Three.js** |
+| **Backend**         | 🌐 **Node.js**, ⚡ **Hono**, 🏗️ **NestJS**, 🛠️ **Express.js**, 🐍 **Django**, ⚡ **Bun**, 🌟 **Prisma**                           |
+| **Bases de Datos**  | 🐘 **PostgreSQL**, 🍃 **MongoDB**, 🐬 **MySQL**, 🔥 **Redis**, 🟢 **Supabase**                                               |
+| **Cloud & Deploy**  | ☁️ **Cloudflare Workers**, 🌐 **Cloudflare Pages**, 🖥️ **Vercel**, 🐳 **Docker**, 🔶 **AWS**                                  |
+| **Testing & Tools** | 🧪 **Jest**, 📚 **Testing Library**, 🛠️ **Postman**, 🔗 **Git**                                                             |
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![ShadCn](https://img.shields.io/badge/ShadCn-00000F?style=for-the-badge&logo=shadcn_ui&logoColor=white)
-![Motion](https://img.shields.io/badge/Motion-3982CE?style=for-the-badge&logo=framer&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+---
 
-### Backend
+### ✨ Tecnologías Principales
+🌟 **Frontend**  
+- **Especializado en:**  
+   - Frameworks modernos como **Next.js** y **React**, creando interfaces rápidas y dinámicas.  
+   - Diseño adaptable con **TailwindCSS** y componentes personalizados con **ShadCN**.  
+   - Animaciones fluidas usando **Framer Motion**.  
 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-F96854?style=for-the-badge&logo=hono&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+🌟 **Backend**  
+- **Experiencia sólida en:**  
+   - Frameworks ligeros como **Hono** para microservicios rápidos.  
+   - Desarrollo con **Node.js** y rendimiento superior con **Bun**.  
+   - Diseño de APIs backend escalables con **NestJS** y **Express.js**.  
+   - Bases de datos relacionales y no relacionales optimizadas con **PostgreSQL** y **MongoDB**.  
 
-### Bases de Datos
+🌟 **Cloud & Deployment**  
+- **Implementaciones rápidas y escalables con:**  
+   - **Cloudflare Workers** para ejecución eficiente de funciones en el edge.  
+   - **Cloudflare Pages** para el despliegue estático optimizado.  
+   - Contenedores con **Docker** y arquitecturas robustas en **AWS**.  
+   - Hosting frontend ágil con **Vercel**.  
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23EF4223.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### Cloud & Deployment
-
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### Testing & Tools
-
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🏗️ Arquitectura e Infraestructura
 
