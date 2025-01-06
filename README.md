@@ -86,112 +86,97 @@ I design and implement modern, reliable architectures that include:
 - **Global Reach**: Multi-region deployments for optimal performance worldwide.
 
 
-##  Proyectos Destacados
+Aquí tienes los nombres de tus proyectos mejorados y traducidos al inglés, junto con una breve descripción de cada uno:
 
-### SaaS y Aplicaciones Empresariales
+## Featured Projects
 
-1. **[SaaS Platform: GPT-Powered Context-Based Chat Management](https://e-compa.vercel.app/)**
-   - Plataforma para crear compañeros virtuales con IA
-   - `Next.js` `TypeScript` `Prisma` `OpenAI`
-   - [Código Fuente](https://github.com/Lostovayne/SaaS-AI-Companion)
+### SaaS and Enterprise Applications
 
-2. **[Notion Clone: Real-Time Collaboration & Secure Authentication](https://www.murkiva.cloud/)**
-   - Sistema de notas colaborativo
-   - `Next.js` `Clerk Auth` `ShadCn` `Real-time sync`
-   - [Código Fuente](https://github.com/Lostovayne/Clon-de-Notion-con-Next14-Tailwind-Typescript)
+1. **[AI Companion: Contextual Chat Management Platform](https://e-compa.vercel.app/)**
+   - Platform for creating AI-powered virtual companions
+   - [Source Code](https://github.com/Lostovayne/SaaS-AI-Companion)
 
-3. **[Trello Clone: Seamless Task Management with Server Actions & Secure Authentication](https://github.com/Lostovayne/Clon-de-Trello-Next-14-Tailwind-Typescript-Prisma)**
-   - Gestión de proyectos
-   - `Next.js` `Clerk Auth` `Prisma` `Drag & Drop`
-   - Sistema de tableros y tarjetas en tiempo real
-    - [Código Fuente](https://github.com/Lostovayne/)
+2. **[Notion Clone: Collaborative Note-Taking with Secure Authentication](https://www.murkiva.cloud/)**
+   - Collaborative note-taking system
+   - [Source Code](https://github.com/Lostovayne/Clon-de-Notion-con-Next14-Tailwind-Typescript)
 
-4. **[Slack Clone: Enhanced UI & Seamless SaaS Experience](https://epsaslack.vercel.app/)**
-   - Comunicación en tiempo real
-   - `Next.js` `Socket.io` `Real-time chat`
-   - Mensajería instantánea y canales de comunicación
-   - [Código Fuente](https://github.com/Lostovayne/)
+3. **[Trello Clone: Effortless Project Management with Real-Time Features](https://github.com/Lostovayne/Clon-de-Trello-Next-14-Tailwind-Typescript-Prisma)**
+   - Project management system
+   - [Source Code](https://github.com/Lostovayne/)
 
-5. **[Startup Directory Platform](https://yc-directory-topaz.vercel.app/)**
+4. **[Slack Clone: Enhanced Communication Platform with Real-Time Features](https://epsaslack.vercel.app/)**
+   - Real-time communication
+   - [Source Code](https://github.com/Lostovayne/)
+
+5. **[Startup Directory: Comprehensive Startup Listing Platform](https://yc-directory-topaz.vercel.app/)**
    - `Sanity` `Next.js 15` `Typescript` `Real-time updates`
-   - [Código Fuente](https://github.com/Lostovayne/YCDirectory)
+   - [Source Code](https://github.com/Lostovayne/YCDirectory)
 
-6. **[Build a Real-Time Google Docs Clone](https://google-docs-beige.vercel.app/documents/1234)**
-   - Sistema colaborativo de documentos en tiempo real
-   - `Next 15` `React` `Tailwind` `Real-time collaboration`
-   - Editor de texto colaborativo con actualizaciones en tiempo real
-   - [Código Fuente](https://github.com/Lostovayne/)
+6. **[Real-Time Google Docs Clone: Collaborative Document Editing](https://google-docs-beige.vercel.app/documents/1234)**
+   - Collaborative document editing system
+   - Collaborative text editor with real-time updates
+   - [Source Code](https://github.com/Lostovayne/)
 
-7. **SaaS for real-time event notifications**
-   - Plataforma de notificaciones en tiempo real
-   - `Next.js` `Tailwind` `React` `Hono` `WebSockets`
-   - Sistema escalable de notificaciones para aplicaciones web
-   - [Código Fuente](https://github.com/Lostovayne/)
-  
-  
+7. **[Real-Time Event Notification SaaS](https://github.com/Lostovayne/)**
+   - Real-time notification platform
+   - Scalable notification system for web applications
+   - [Source Code](https://github.com/Lostovayne/)
+8. **[Real-Time SaaS Insights,Delivered to Your Discord]()**
+   - PingPanda is the easiest way to monitor your SaaS. Get instant notifications for sales,
+   - new users, or any other event sent directly to your Discord.
 
-### E-commerce y Sistemas de Pago
+### E-commerce and Payment Systems
 
-1. **[Shoper](https://shoper-store.vercel.app/)**
-   - Sistema completo de e-commerce en tiempo real con cms integrado
-   - `Next 15` `Stripe` `TypeScript` `Sanity` `Real Time`
-   - [Código fuente](https://github.com/Lostovayne/Full-Stack-E-Commerce)
-2. **[Tesla Shop](https://github.com/Lostovayne/Tienda-de-Ropa-Tesla-Shop-usando-Next-14)**
+1. **[Ecommerce Hub: Real-Time E-commerce Platform with Integrated CMS](https://shoper-store.vercel.app/)**
+   - Complete real-time e-commerce system with integrated CMS
+   - [Source Code](https://github.com/Lostovayne/Full-Stack-E-Commerce)
 
-   - Sistema completo de e-commerce con pagos integrados
-   - `Next.js` `Stripe` `TypeScript`
 
-### Backends, APIs y Microservicios
+2. **[Tesla Apparel Store: Integrated E-commerce Experience](https://github.com/Lostovayne/Tienda-de-Ropa-Tesla-Shop-usando-Next-14)**
+   - Complete e-commerce system with integrated payments
 
-1. **[High Performance API](https://api-sooty-eta.vercel.app/)**
+### Backends, APIs, and Microservices
 
-   - API optimizada para alto rendimiento
-   - [Código Fuente](https://github.com/Lostovayne/High-Performance-Api)
+1. **[High-Performance API: Optimized for Speed and Efficiency](https://api-sooty-eta.vercel.app/)**
+   - API optimized for high performance
+   - [Source Code](https://github.com/Lostovayne/High-Performance-Api)
 
-2. **[Auth System](https://github.com/Lostovayne/Sistema-de-Autenticacion-usando-Node-Ts-y-Clean-Arquitecture)**
-
-   - Sistema de autenticación con arquitectura limpia
+2. **[Authentication System: Secure and Clean Architecture](https://github.com/Lostovayne/Sistema-de-Autenticacion-usando-Node-Ts-y-Clean-Arquitecture)**
+   - Authentication system with clean architecture
    - `Node.js` `TypeScript` `Clean Architecture`
-     
-4. **[Full Search with AI](https://search-products-three.vercel.app/)**
-   - Busqueda de productos en una base de datos postgresql
-   - Uso de Vectores para buscar productos con similitudes
-   - `Next 15` `Typescript` `Tailwind` `PostgreSql` `Drizzle` `Upstash`
-   - [Código Fuente](https://github.com/Lostovayne/Search-Products-With-Nextjs)
 
-### Landing Pages y webs desplegadas
+3. **[AI-Powered Full Search: Intelligent Product Discovery](https://search-products-three.vercel.app/)**
+   - Product search in a PostgreSQL database
+   - Uses vectors for similarity-based product search
+   - [Source Code](https://github.com/Lostovayne/Search-Products-With-Nextjs)
 
-1. **[La Velada del Año IV](https://khalest.cloud)**
+### Landing Pages and Deployed Websites
 
-   - Landing page para evento de boxeo
+1. **[The Yearly Boxing Event IV: Landing Page](https://khalest.cloud)**
+   - Landing page for a boxing event
    - `Astro` `TypeScript` `Tailwind`
 
-2. **[Cash Bank](https://cash-bank.pages.dev/)**
-
-   - Plataforma bancaria digital
+2. **[Digital Cash Bank: Online Banking Platform](https://cash-bank.pages.dev/)**
+   - Digital banking platform
    - `Next.js` `Tailwind` `Framer Motion`
 
-3. **[Tesla Landing](https://tesladl.pages.dev/)**
-
-   - Réplica de la landing page de Tesla
+3. **[Tesla Landing Page Replica: Inspired by Tesla's Design](https://tesladl.pages.dev/)**
+   - Replica of Tesla's landing page
    - `Astro` `Tailwind` `Animations`
 
-4. **[Anime Portal](https://anime-next14.vercel.app)**
-
-   - Portal de contenido de anime
+4. **[Anime Portal: Content Hub for Anime Lovers](https://anime-next14.vercel.app)**
+   - Anime content portal
    - `Next.js 14` `API Integration`
 
-5. **[BlockForge](https://dark-blockchain.vercel.app/)**
-
-   - As a decentralized blockchain scaling platform
+5. **[BlockForge: Decentralized Blockchain Scaling Platform](https://dark-blockchain.vercel.app/)**
+   - A decentralized blockchain scaling platform
    - `Astro` `React` `Framer Motion` `Tailwind`
-   - [Código fuente](https://github.com/Lostovayne/Dark-SaaS-Blockchain-Site)
+   - [Source Code](https://github.com/Lostovayne/Dark-SaaS-Blockchain-Site)
 
-6. **Awwwards Winning Website**
-   - Sitio web con diseño premiado y animaciones avanzadas
+6. **[Award-Winning Website: Innovative Design and Advanced Animations](https://github.com/Lostovayne/)**
+   - Website with award-winning design and advanced animations
    - `React.js` `Tailwind CSS` `GSAP`
-   - Experiencia de usuario inmersiva con animaciones fluidas
-
+   - Immersive user experience with smooth animations
 
 
 ## 📫 Contacto
