@@ -18,12 +18,18 @@
 
 ## 🚀 Sobre mí
 
-Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y escalables, con especial enfoque en servicios SaaS. Mi filosofía se centra en:
+Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y escalables, con especial enfoque en servicios SaaS.
+Mis hobbies son simples, disfruto del codigo como metodo para implementar soluciones.
 
-- 🎯 Implementación de mejores prácticas y patrones de diseño
-- 📚 Aprendizaje continuo y actualización constante
-- 🛠️ Desarrollo de soluciones eficientes y mantenibles
-- 🤝 Colaboración y código limpio
+Una pequeña cita para comenzar el dia!
+
+> **[Jefe]:** ¡Identifícate! ¡Dime tu nombre, programador!
+>
+> **[Programador]:**  
+> Me llamo Máximo DevOps Meridio, arquitecto de sistemas distribuidos, líder de los equipos ágiles del norte, defensor del código limpio y leal servidor del verdadero ingeniero principal, Marco Aurelio.  
+> Padre de un proyecto cancelado, esposo de una aplicación rechazada.  
+> Y juro que depuraré este sistema, en esta sprint o en la próxima.
+
 
 <div align="center">
 
