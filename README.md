@@ -62,10 +62,6 @@ Soy un desarrollador **Full Stack** y **arquitecto de software**, apasionado por
 - **Docker**: Contenerización para despliegues consistentes.  
 - **Cloudflare & Vercel**: Implementaciones globales con alta disponibilidad.
 
-
-
-Aquí tienes la tabla de tus **Featured Projects** organizada en una sola tabla, con un título atractivo y una descripción general que resalta tus habilidades como programador frontend. Esta tabla incluye todos los proyectos, y puedes seleccionar los mejores y más completos según tus necesidades. He mejorado el título y la descripción para hacerlo aún más llamativo y profesional.
-
 ---
 
 ### 💻 **Featured Projects**  
