@@ -20,7 +20,7 @@
 
 Soy un desarrollador **Full Stack** y **arquitecto de software**, apasionado por crear soluciones innovadoras y escalables. 
 
-🛠️ **¿Qué me mueve?** La combinación de creatividad, estructura, y tecnología para resolver problemas complejos y mejorar la experiencia de los usuarios. Mis hobbies son simples: el código, la optimización, y la implementación de soluciones.
+🛠️ **¿Qué me mueve?** La combinación de creatividad, estructura, y tecnología para resolver problemas complejos y mejorar la experiencia de los usuarios.
 
 
 
