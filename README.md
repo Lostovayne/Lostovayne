@@ -51,7 +51,9 @@ Soy un desarrollador **Full Stack** y **arquitecto de software**, apasionado por
 #### Frontend
 - **Next.js & React**: Desarrollo de aplicaciones dinámicas, rápidas y modernas.  
 - **TailwindCSS**: Diseño receptivo con componentes visualmente atractivos.  
-- **Three.js**: Animaciones y experiencias inmersivas en 3D.  
+- **Three.js**: Animaciones y experiencias inmersivas en 3D.
+- **Gsap**: Animaciones dinamicas que permiten darle vida a la web.
+- **Motion**: Animando componentes para mejorar la interactividad.  
 
 #### Backend
 - **Node.js & NestJS**: API y servicios escalables.  
