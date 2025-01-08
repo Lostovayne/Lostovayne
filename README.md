@@ -104,8 +104,8 @@ I focus on building fast, scalable, and maintainable solutions. Each of these pr
 If you're looking for a frontend developer who is passionate about modern web technologies, building scalable systems, and delivering polished user experiences, feel free to reach out!  
 
 📧 **Email**: ["]  
-🐦 **Twitter**: [@yourTwitter](https://twitter.com/LostoVayne)  
-🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/franco-barrera-riffo/)
+🐦 **Twitter**: [@Play10Never](https://x.com/Play10Never)  
+🔗 **LinkedIn**: [LinkedIn](https://www.linkedin.com/franco-barrera-riffo/)
 
 ---
 
