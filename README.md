@@ -81,9 +81,9 @@ A showcase of my most complete and attractive projects, demonstrating my experti
 | **[Tesla Shop](https://github.com/Lostovayne/Tienda-de-Ropa-Tesla-Shop-usando-Next-14)** | E-commerce platform with integrated payments and product management | `Next.js`, `Stripe`, `TypeScript` | - |
 | **[Suburbia Store](https://github.com/Lostovayne/Tienda-de-Vehiculos-Next-13-Typescript-y-Tailwind)** | A car marketplace with dynamic listings and search filters | `Next15`, `Tailwind`, `TypeScript`,`ThreeJs`,`Gsap`,`Prismic` | - |
 | **[Full Search with AI](https://search-products-three.vercel.app/)** | AI-powered product search with vector similarity for better results | `Next.js`, `TypeScript`, `PostgreSQL`, `Upstash` | [Source Code](https://github.com/Lostovayne/Search-Products-With-Nextjs) |
-| **[Awwwards-Winning-Website](https://cash-bank.pages.dev/)** | Digital banking platform with intuitive UI/UX and secure transactions | `Next.js`, `Tailwind`, `Framer Motion` | - |
+| **[Awwwards-Winning-Website](https://winning-web.vercel.app/)** | Website Creating with React19 that uses incredible animations | `React.js`, `Tailwind`, `Gsap` | [Source Code](https://github.com/Lostovayne/Awwwards-Winning-Website)  |
 | **[Tesla Landing](https://tesladl.pages.dev/)** | Replica of Tesla's landing page with beautiful animations | `Astro`, `Tailwind`, `Animations` | - |
-| **[Anime Portal](https://anime-next14.vercel.app)** | A platform for anime content, integrated with external APIs | `Next.js 14`, `API Integration` | - |
+| **[Anime Portal Website](https://anime-next14.vercel.app)** | A platform for anime content, integrated with external APIs | `Next.js 14`, `API Integration` | - |
 | **[BlockForge website](https://dark-blockchain.vercel.app/)** | Blockchain scaling platform with user-friendly interface | `Astro`, `React`, `Framer Motion`, `Tailwind` | [Source Code](https://github.com/Lostovayne/Dark-SaaS-Blockchain-Site) |
 
 ---
