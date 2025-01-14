@@ -71,7 +71,6 @@ A showcase of my most complete and attractive projects, demonstrating my experti
 
 | Project | Description | Technologies | Links |
 | --- | --- | --- | --- |
-| **[AI Companion Creator](https://e-compa.vercel.app/)** | Create AI-powered virtual companions with personalized interactions | `Next14`, `TypeScript`, `Prisma`, `OpenAI`,`Tailwind` | [Source Code](https://github.com/Lostovayne/SaaS-AI-Companion) |
 | **[Notion Clone](https://www.murkiva.cloud/)** | A collaborative note-taking system with real-time sync | `Next14`, `Clerk Auth`, `ShadCN`, `Real-time sync` | [Source Code](https://github.com/Lostovayne/Clon-de-Notion-con-Next14-Tailwind-Typescript) |
 | **[Trello Clone](https://github.com/Lostovayne/Clon-de-Trello-Next-14-Tailwind-Typescript-Prisma)** | A project management tool with drag & drop and real-time updates | `Next15`, `Prisma`, `Drag & Drop` | [Source Code](https://github.com/Lostovayne/SaaS-Clon-de-Trello) |
 | **[Slack Clone](https://github.com/Lostovayne/build-slack-clone)** | Real-time communication platform with instant messaging | `Next15`, `Socket.io`, `Real-time chat`,`Convex` | [Source Code](https://github.com/Lostovayne/SaaS-Clon-de-Slack) |
