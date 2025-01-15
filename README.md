@@ -36,15 +36,16 @@ Soy un desarrollador **Full Stack** y **arquitecto de software**, apasionado por
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Stack
 
-| **Category**       | **Technologies**                                                                                                           |
-|---------------------|---------------------------------------------------------------------------------------------------------------------------|
-| **Frontend**        | Next.js, React, Astro, TypeScript, TailwindCSS, ShadCN, Framer Motion, Three.js                                           |
-| **Backend**         | Node.js, Hono, NestJS, Express.js, Django, Bun, Prisma                                                                    |
-| **Databases**       | PostgreSQL, MongoDB, MySQL, Redis, Supabase                                                                               |
-| **Cloud & Deployment** | Cloudflare Workers, Vercel, Docker, AWS                                                                                 |
-| **Testing & Tools** | Jest, Testing Library, Postman, Git                                                                                       |
+| Category | Technologies |
+|----------|-------------|
+| **🎨 Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs) |
+| **⚙️ Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?logo=express) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma) ![Django](https://img.shields.io/badge/Django-092E20?logo=django) |
+| **🗄️ Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white) |
+| **☁️ Cloud & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws) ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white) |
+| **🛠️ Testing & Tools** | ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?logo=testinglibrary&logoColor=white) |
+
 
 ### Core Highlights
 
@@ -69,23 +70,20 @@ Soy un desarrollador **Full Stack** y **arquitecto de software**, apasionado por
 ### 💻 **Featured Projects**  
 A showcase of my most complete and attractive projects, demonstrating my expertise in building dynamic, scalable, and modern web applications. From creating SaaS platforms and e-commerce systems to high-performance APIs and stunning landing pages, these projects highlight my proficiency in frontend and backend technologies.
 
-| Project | Description | Technologies | Links |
-| --- | --- | --- | --- |
-| **[Notion Clone](https://www.murkiva.cloud/)** | A collaborative note-taking system with real-time sync | `Next14`, `Clerk Auth`, `ShadCN`, `Real-time sync` | [Source Code](https://github.com/Lostovayne/Clon-de-Notion-con-Next14-Tailwind-Typescript) |
-| **[Trello Clone](https://github.com/Lostovayne/Clon-de-Trello-Next-14-Tailwind-Typescript-Prisma)** | A project management tool with drag & drop and real-time updates | `Next15`, `Prisma`, `Drag & Drop` | [Source Code](https://github.com/Lostovayne/SaaS-Clon-de-Trello) |
-| **[Slack Clone](https://github.com/Lostovayne/build-slack-clone)** | Real-time communication platform with instant messaging | `Next15`, `Socket.io`, `Real-time chat`,`Convex` | [Source Code](https://github.com/Lostovayne/SaaS-Clon-de-Slack) |
-| **[Google Docs Clone](https://github.com/Lostovayne/Clon-de-Twitter-con-Next-14)** | A collaborative document editor with real-time updates | `Next15`, `Prisma`, `Authentication`,`Tailwind` | [Source Code](https://github.com/Lostovayne/Real-time-google-docs-clone) |
-| **[Startup Directory Platform](https://yc-directory-topaz.vercel.app/)** | A dynamic platform for discovering and connecting startups | `Sanity`, `Next15`, `TypeScript` | [Source Code](https://github.com/Lostovayne/YCDirectory) |
-| **[Shoper](https://shoper-store.vercel.app/)** | Full-featured e-commerce system with CMS integration and real-time updates | `Next.js`, `Stripe`, `TypeScript`, `Sanity` | [Source Code](https://github.com/Lostovayne/Full-Stack-E-Commerce) |
-| **[Tesla Shop](https://github.com/Lostovayne/Tienda-de-Ropa-Tesla-Shop-usando-Next-14)** | E-commerce platform with integrated payments and product management | `Next.js`,`Stripe`,`Paypal`,`Docker`,`PostgreSql`,`TypeScript` | [Source Code](https://github.com/Lostovayne/Tesla-Shop-Store) |
-| **[Suburbia Store](https://github.com/Lostovayne/Tienda-de-Vehiculos-Next-13-Typescript-y-Tailwind)** | A car marketplace with dynamic listings and search filters | `Next15`, `Tailwind`, `TypeScript`,`ThreeJs`,`Gsap`,`Prismic` | - |
-| **[Full Search with AI](https://search-products-three.vercel.app/)** | AI-powered product search with vector similarity for better results | `Next.js`, `TypeScript`, `PostgreSQL`, `Upstash` | [Source Code](https://github.com/Lostovayne/Search-Products-With-Nextjs) |
-| **[Awwwards-Winning-Website](https://winning-web.vercel.app/)** | Website Creating with React19 that uses incredible animations | `React.js`, `Tailwind`, `Gsap` | [Source Code](https://github.com/Lostovayne/Awwwards-Winning-Website)  |
-| **[Tesla Landing](https://tesladl.pages.dev/)** | Replica of Tesla's landing page with beautiful animations | `Astro`, `Tailwind`, `Animations` | - |
-| **[Anime Portal Website](https://anime-next14.vercel.app)** | A platform for anime content, integrated with external APIs | `Next.js 14`, `API Integration` | - |
-| **[BlockForge website](https://dark-blockchain.vercel.app/)** | Blockchain scaling platform with user-friendly interface | `Astro`, `React`, `Framer Motion`, `Tailwind` | [Source Code](https://github.com/Lostovayne/Dark-SaaS-Blockchain-Site) |
+# Professional Portfolio
+| Project Name | Tech Stack | Links |
+|-------------|------------|-------|
+| **Enterprise Collaboration Suite** <br> *Modern document management platform* | `Next.js 14` `TypeScript` `Clerk` `Real-time` | [View Code](https://github.com/...) |
+| **Agile Flow** <br> *Project management platform* | `Next.js 15` `Prisma` `PostgreSQL` | [View Code](https://github.com/...) |
+| **TeamSync** <br> *Real-time communication platform* | `Next.js 15` `Socket.io` `Convex` | [View Code](https://github.com/...) |
+| **DocFlow** <br> *Collaborative document editor* | `Next.js 15` `Prisma` `Auth` | [View Code](https://github.com/...) |
+| **VentureHub** <br> *Startup discovery platform* | `Next.js 15` `Sanity` `TypeScript` | [Demo](https://yc-directory-topaz.vercel.app/) |
+| **ShopperPro** <br> *E-commerce platform* | `Next.js` `Stripe` `Sanity` | [Demo](https://shoper-store.vercel.app/) |
+| **AutoCommerce** <br> *Vehicle retail platform* | `Next.js` `Stripe` `Docker` | [View Code](https://github.com/...) |
+| **MotionCraft** <br> *Creative web experience* | `React 19` `GSAP` `Tailwind` | [Demo](https://winning-web.vercel.app/) |
+| **BlockForge** <br> *Blockchain platform interface* | `Astro` `React` `Framer` | [Demo](https://dark-blockchain.vercel.app/) |
+| **PingPanda** <br> *Real-Time SaaS Insights for Discord* | `Next.js 14` `TypeScript` `Tailwind` `Hono.js` | [View Code](https://github.com/...) |
 
----
 
 ### 🚀 **Why These Projects Matter**
 
