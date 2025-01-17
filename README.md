@@ -16,23 +16,9 @@
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-Soy un desarrollador **Full Stack** y **arquitecto de software**, apasionado por crear soluciones innovadoras y escalables. 
-
-🛠️ **¿Qué me mueve?** La combinación de creatividad, estructura, y tecnología para resolver problemas complejos y mejorar la experiencia de los usuarios.
-
-
-
-## 🥋 Filosofía de desarrollo
-
-> **[Jefe]:** ¡Identifícate! ¡Dime tu nombre, programador!  
->  
-> **[Yo]:**  
-> Me llamo **Máximo DevOps Meridio**, arquitecto de sistemas distribuidos,  
-> líder de los equipos ágiles del norte, defensor del código limpio y leal servidor del verdadero ingeniero principal, Marco Aurelio.  
-> Padre de un proyecto cancelado, esposo de una aplicación rechazada.  
-> Y juro que depuraré este sistema, en esta sprint o en la próxima.  
+I'm a **Full Stack Developer** and **Software Architect** passionate about building innovative solutions. I specialize in creating scalable applications with modern technologies.
 
 ---
 
@@ -48,22 +34,40 @@ Soy un desarrollador **Full Stack** y **arquitecto de software**, apasionado por
 
 
 ### Core Highlights
+# Tech Stack
 
-#### Frontend
-- **Next.js & React**: Desarrollo de aplicaciones dinámicas, rápidas y modernas.  
-- **TailwindCSS**: Diseño receptivo con componentes visualmente atractivos.  
-- **Three.js**: Animaciones y experiencias inmersivas en 3D.
-- **Gsap**: Animaciones dinamicas que permiten darle vida a la web.
-- **Motion**: Animando componentes para mejorar la interactividad.  
+## Frontend
+- **Next.js & React**  
+  Development of dynamic, fast, and modern applications with server-side rendering capabilities.
 
-#### Backend
-- **Node.js & NestJS**: API y servicios escalables.  
-- **Prisma**: Gestión de bases de datos intuitiva.  
-- **Hono**: Framework ligero para microservicios.  
+- **TailwindCSS**  
+  Responsive design with visually appealing components and utility-first approach.
 
-#### Cloud & Deployment
-- **Docker**: Contenerización para despliegues consistentes.  
-- **Cloudflare & Vercel**: Implementaciones globales con alta disponibilidad.
+- **Three.js**  
+  Creating immersive 3D experiences and interactive visualizations.
+
+- **GSAP (GreenSock Animation Platform)**  
+  Robust animations for enhanced web interactivity and smooth transitions.
+
+- **Framer Motion**  
+  React-based animation library for creating fluid component animations and micro-interactions.
+
+## Backend
+- **Node.js & NestJS**  
+  Building scalable and maintainable APIs with enterprise-grade architecture.
+
+- **Prisma**  
+  Type-safe database operations with intuitive ORM capabilities.
+
+- **Hono**  
+  High-performance, lightweight framework for building microservices and edge computing solutions.
+
+## Cloud & Deployment
+- **Docker**  
+  Containerization for consistent deployments across different environments.
+
+- **Cloudflare, Vercel & Aws**  
+  Global deployments with edge computing, CDN capabilities, and high availability infrastructure.
 
 ---
 
