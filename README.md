@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack Developer** and **Software Architect** passionate about building innovative solutions. I specialize in creating scalable applications with modern technologies.
+I'm a Frontend Web Developer passionate about crafting exceptional digital experiences and pixel-perfect user interfaces. I specialize in building modern web applications using React.js and Next.js, with a strong focus on responsive design, accessibility, and performance optimization. My expertise in modern frontend technologies and UI/UX best practices allows me to create scalable and maintainable component architectures while delivering seamless user experiences. I excel at implementing complex UI components, state management solutions, and responsive layouts that work flawlessly across all devices. With a keen eye for detail and a deep understanding of modern web standards, I consistently deliver high-quality code that adheres to best practices and industry standards. I'm particularly skilled in optimizing web performance, implementing SEO strategies, and ensuring cross-browser compatibility. My passion for frontend development extends to creating intuitive user interfaces that not only look beautiful but also provide exceptional functionality and accessibility. I'm committed to writing clean, efficient code and staying up-to-date with the latest frontend development trends and tools, always seeking to push the boundaries of what's possible in web development.
 
 ---
 
