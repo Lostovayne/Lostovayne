@@ -33,7 +33,6 @@ I'm a Frontend Developer passionate about creating exceptional web experiences a
 | **🛠️ Testing & Tools** | ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?logo=testinglibrary&logoColor=white) |
 
 
-### Core Highlights
 # Tech Stack
 
 ## Frontend
