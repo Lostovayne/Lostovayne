@@ -86,7 +86,7 @@ A showcase of my most complete and attractive projects, demonstrating my experti
 | **AutoCommerce** <br> *Vehicle retail platform* | `Next.js` `Stripe` `Docker` | [View Code](https://github.com/...) |
 | **MotionCraft** <br> *Creative web experience* | `React 19` `GSAP` `Tailwind` | [Demo](https://winning-web.vercel.app/) |
 | **BlockForge** <br> *Blockchain platform interface* | `Astro` `React` `Framer` | [Demo](https://dark-blockchain.vercel.app/) |
-| **PingPanda** <br> *Real-Time SaaS Insights for Discord* | `Next.js 14` `TypeScript` `Tailwind` `Hono.js` | [Demo](https://notifydiscord.epsaind.workers.dev/) |
+| **PingPanda** <br> *Real-Time SaaS Insights for Discord* | `Next.js 14` `TypeScript` `Tailwind` `Hono.js` | [Demo](https://notifydiscord.vercel.app/) |
 
 
 ### 🚀 **Why These Projects Matter**
