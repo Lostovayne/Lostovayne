@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm a Frontend Web Developer passionate about crafting exceptional digital experiences and pixel-perfect user interfaces. I specialize in building modern web applications using React.js and Next.js, with a strong focus on responsive design, accessibility, and performance optimization. My expertise in modern frontend technologies and UI/UX best practices allows me to create scalable and maintainable component architectures while delivering seamless user experiences. I excel at implementing complex UI components, state management solutions, and responsive layouts that work flawlessly across all devices. With a keen eye for detail and a deep understanding of modern web standards, I consistently deliver high-quality code that adheres to best practices and industry standards. I'm particularly skilled in optimizing web performance, implementing SEO strategies, and ensuring cross-browser compatibility. My passion for frontend development extends to creating intuitive user interfaces that not only look beautiful but also provide exceptional functionality and accessibility. I'm committed to writing clean, efficient code and staying up-to-date with the latest frontend development trends and tools, always seeking to push the boundaries of what's possible in web development.
+I'm a Frontend Developer passionate about creating exceptional web experiences and pixel-perfect interfaces. I specialize in React.js and Next.js, focusing on responsive design, accessibility, and performance. I build scalable, maintainable components, implement complex UIs, and deliver seamless, high-quality code. Skilled in web performance, SEO, and cross-browser compatibility, I aim to create intuitive, functional, and accessible interfaces while staying updated on the latest frontend trends.
 
 ---
 
@@ -78,15 +78,16 @@ A showcase of my most complete and attractive projects, demonstrating my experti
 | Project Name | Tech Stack | Links |
 |-------------|------------|-------|
 | **Enterprise Collaboration Suite** <br> *Modern document management platform* | `Next.js 14` `TypeScript` `Clerk` `Real-time` | [View Code](https://github.com/...) |
-| **Agile Flow** <br> *Project management platform* | `Next.js 15` `Prisma` `PostgreSQL` | [View Code](https://github.com/...) |
-| **TeamSync** <br> *Real-time communication platform* | `Next.js 15` `Socket.io` `Convex` | [View Code](https://github.com/...) |
-| **DocFlow** <br> *Collaborative document editor* | `Next.js 15` `Prisma` `Auth` | [View Code](https://github.com/...) |
-| **VentureHub** <br> *Startup discovery platform* | `Next.js 15` `Sanity` `TypeScript` | [Demo](https://yc-directory-topaz.vercel.app/) |
+| **Notion Platforms** <br> *Project management platform* | `Next.js 15` `Prisma` `PostgreSQL` | [View Code](https://github.com/...) |
+| **Slack Platforms** <br> *Real-time communication platform* | `Next.js 15` `Socket.io` `Convex` | [View Code](https://github.com/...) |
+| **Trello Platforms** <br> *Collaborative document editor* | `Next.js 15` `Prisma` `Auth` | [View Code](https://github.com/...) |
+| **Discovery Startups** <br> *Startup discovery platform* | `Next.js 15` `Sanity` `TypeScript` | [Demo](https://yc-directory-topaz.vercel.app/) |
 | **ShopperPro** <br> *E-commerce platform* | `Next.js` `Stripe` `Sanity` | [Demo](https://shoper-store.vercel.app/) |
 | **AutoCommerce** <br> *Vehicle retail platform* | `Next.js` `Stripe` `Docker` | [View Code](https://github.com/...) |
 | **MotionCraft** <br> *Creative web experience* | `React 19` `GSAP` `Tailwind` | [Demo](https://winning-web.vercel.app/) |
-| **BlockForge** <br> *Blockchain platform interface* | `Astro` `React` `Framer` | [Demo](https://dark-blockchain.vercel.app/) |
-| **PingPanda** <br> *Real-Time SaaS Insights for Discord* | `Next.js 14` `TypeScript` `Tailwind` `Hono.js` | [Demo](https://notifydiscord.vercel.app/) |
+| **BlockForge** <br> *Blockchain platform interface* | `Astro` `React` `Motion` | [Demo](https://dark-blockchain.vercel.app/) |
+| **PingPanda** <br> *Real-Time SaaS Insights for Discord* | `Next.js 14` `TypeScript` `Tailwind` `Hono.js` `WebSockets` | [Demo](https://notifydiscord.vercel.app/) |
+| **iPhone Apple Website** <br> *Creative web experience* | `React19` `TypeScript` `Tailwind 4` `Gsap` `ThreeJs` `Cloudflare` | [Demo](https://applewebsite.pages.dev/) |
 
 
 ### 🚀 **Why These Projects Matter**
