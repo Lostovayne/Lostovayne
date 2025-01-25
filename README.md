@@ -77,7 +77,7 @@ A showcase of my most complete and attractive projects, demonstrating my experti
 | Project Name | Tech Stack | Links |
 |-------------|------------|-------|
 | **Enterprise Collaboration Suite** <br> *Modern document management platform* | `Next.js 15` `TypeScript` `Clerk` `Real-time` | [Demo](https://google-docs-beige.vercel.app/documents/1234) |
-| **Notion Platforms** <br> *Project management platform* | `Next.js 15` `Prisma` `PostgreSQL` | [View Code](https://github.com/...) |
+| **Notion Platforms** <br> *Project management platform* | `Next.js 15` `Prisma` `PostgreSQL` | [View Code](https://github.com/Lostovayne/SaaS-Notion-Clone) |
 | **Slack Platforms** <br> *Real-time communication platform* | `Next.js 15` `Socket.io` `Convex` | [View Code](https://github.com/...) |
 | **Trello Platforms** <br> *Collaborative document editor* | `Next.js 15` `Prisma` `Auth` | [View Code](https://github.com/...) |
 | **Discovery Startups** <br> *Startup discovery platform* | `Next.js 15` `Sanity` `TypeScript` | [Demo](https://yc-directory-topaz.vercel.app/) |
