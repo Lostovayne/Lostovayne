@@ -88,15 +88,12 @@ A showcase of my most complete and attractive projects, demonstrating my experti
 | **PingPanda** <br> *Real-Time SaaS Insights for Discord* | `Next.js 14` `TypeScript` `Tailwind` `Hono.js` `WebSockets` | [Demo](https://notifydiscord.vercel.app/) |
 | **iPhone Apple Website** <br> *Creative web experience* | `React19` `TypeScript` `Tailwind 4` `Gsap` `ThreeJs` `Cloudflare` | [Demo](https://applewebsite.pages.dev/) |
 
-
-### 🚀 **Why These Projects Matter**
-
-I focus on building fast, scalable, and maintainable solutions. Each of these projects showcases:
-
-- **Full-stack proficiency**: From building dynamic user interfaces with **React**, **Next.js**, and **Tailwind CSS**, to developing powerful APIs with **Node.js** and **Prisma**.
-- **Real-time applications**: Experience with **Socket.io**, **Clerk Auth**, and **WebSockets** for interactive, real-time features.
-- **E-commerce**: Seamless integrations with **Stripe** and **Sanity**, for modern online shopping experiences.
-- **UI/UX**: Professional design practices to ensure usability and responsiveness, including accessibility and mobile-first approaches.
+# Projects that I am passionate about creating
+| Project Name | Tech Stack | Links |
+|--------------|------------|-------|
+| **Profanity API** <br> *A robust API for filtering profanity in user-generated content* | `Hono.js` `TypeScript` `Serverless Vector` `Upstash` `Cloudflare` | [View Code](https://github.com/Lostovayne/Profanity-Api) |
+| **High-Performance API** <br> *Build a scalable and efficient API with advanced caching strategies* | `Hono.js` `Next.js` `Redis` `Upstash` `Cloudflare` | [Demo](https://github.com/Lostovayne/High-Performance-Api) |
+| **Rate Limiting** <br> *Implementing rate limiting for APIs using Redis and Cloudflare Workers* | `Redis` `Hono.js` `Cloudflare Workers` | [Demo](https://lies-with-hono.epsaind.workers.dev/lies/3) |
 
 ---
 
