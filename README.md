@@ -91,7 +91,7 @@ A showcase of my most complete and attractive projects, demonstrating my experti
 # Projects that I am passionate about creating
 | Project Name | Tech Stack | Links |
 |--------------|------------|-------|
-| **Profanity API** <br> *A robust API for filtering profanity in user-generated content* | `Hono.js` `TypeScript` `Serverless Vector` `Upstash` `Cloudflare` | [View Code](https://github.com/Lostovayne/Profanity-Api) |
+| **Profanity API** <br> *A robust API for filtering profanity in user-generated content* | `Hono.js` `TypeScript` `Serverless Vector` `Upstash` `Cloudflare` | [View Code](https://profanity-api.epsaind.workers.dev/) |
 | **High-Performance API** <br> *Build a scalable and efficient API with advanced caching strategies* | `Hono.js` `Next.js` `Redis` `Upstash` `Cloudflare` | [Demo](https://github.com/Lostovayne/High-Performance-Api) |
 | **Rate Limiting** <br> *Implementing rate limiting for APIs using Redis and Cloudflare Workers* | `Redis` `Hono.js` `Cloudflare Workers` | [Demo](https://lies-with-hono.epsaind.workers.dev/lies/3) |
 
