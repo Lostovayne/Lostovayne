@@ -94,7 +94,7 @@ A showcase of my most complete and attractive projects, demonstrating my experti
 | **Profanity API** <br> *A robust API for filtering profanity in user-generated content* | `Hono.js` `TypeScript` `Serverless Vector` `Upstash` `Cloudflare` | [View Code](https://github.com/Lostovayne/Profanity-Api) |
 | **High-Performance API** <br> *Build a scalable and efficient API with advanced caching strategies* | `Hono.js` `Next.js` `Redis` `Upstash` `Cloudflare` | [Demo](https://github.com/Lostovayne/High-Performance-Api) |
 | **Rate Limiting** <br> *Implementing rate limiting for APIs using Redis and Cloudflare Workers* | `Redis` `Hono.js` `Cloudflare Workers` | [Demo](https://lies-with-hono.epsaind.workers.dev/lies/3) |
-1 **Embedding Search** <br> *Implementing Embedding search with Postgresql and Vector Db* | `Next15` `VectorDb` `PostgreSql` `DrizzleOrm` | [Demo](https://search-products-three.vercel.app/)
+| **Embedding Search** <br> *Implementing Embedding search with Postgresql and Vector Db* | `Next15` `VectorDb` `PostgreSql` `DrizzleOrm` | [Demo](https://search-products-three.vercel.app/) |
 
 ---
 
