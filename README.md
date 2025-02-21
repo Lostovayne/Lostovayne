@@ -73,28 +73,35 @@ I'm a Frontend Developer passionate about creating exceptional web experiences a
 ### 💻 **Featured Projects**  
 A showcase of my most complete and attractive projects, demonstrating my expertise in building dynamic, scalable, and modern web applications. From creating SaaS platforms and e-commerce systems to high-performance APIs and stunning landing pages, these projects highlight my proficiency in frontend and backend technologies.
 
+// ... (previous content remains unchanged until the Professional Portfolio section) ...
+
 # Professional Portfolio
 | Project Name | Tech Stack | Links |
 |-------------|------------|-------|
-| **Enterprise Collaboration Suite** <br> *Modern document management platform* | `Next.js 15` `TypeScript` `Clerk` `Real-time` | [Demo](https://google-docs-beige.vercel.app/documents/1234) |
-| **Notion Platforms** <br> *Project management platform* | `Next.js 15` `Prisma` `PostgreSQL` | [View Code](https://github.com/Lostovayne/SaaS-Notion-Clone) |
-| **Slack Platforms** <br> *Real-time communication platform* | `Next.js 15` `Socket.io` `Convex` | [View Code](https://github.com/...) |
-| **Trello Platforms** <br> *Collaborative document editor* | `Next.js 15` `Prisma` `Auth` | [View Code](https://github.com/...) |
-| **Discovery Startups** <br> *Startup discovery platform* | `Next.js 15` `Sanity` `TypeScript` | [Demo](https://yc-directory-topaz.vercel.app/) |
-| **ShopperPro** <br> *E-commerce platform* | `Next.js` `Stripe` `Sanity` | [Demo](https://shoper-store.vercel.app/) |
-| **AutoCommerce** <br> *Vehicle retail platform* | `Next.js` `Stripe` `Docker` | [View Code](https://github.com/...) |
-| **MotionCraft** <br> *Creative web experience* | `React 19` `GSAP` `Tailwind` | [Demo](https://winning-web.vercel.app/) |
-| **BlockForge** <br> *Blockchain platform interface* | `Astro` `React` `Motion` | [Demo](https://dark-blockchain.vercel.app/) |
-| **PingPanda** <br> *Real-Time SaaS Insights for Discord* | `Next.js 14` `TypeScript` `Tailwind` `Hono.js` `WebSockets` | [Demo](https://notifydiscord.vercel.app/) |
-| **iPhone Apple Website** <br> *Creative web experience* | `React19` `TypeScript` `Tailwind 4` `Gsap` `ThreeJs` `Cloudflare` | [Demo](https://applewebsite.pages.dev/) |
+| **Enterprise Collaboration Suite** <br> *Advanced document management platform with real-time collaboration features and secure document sharing* | `Next.js 15` `TypeScript` `Clerk` `Real-time` | [Demo](https://google-docs-beige.vercel.app/documents/1234) |
+| **Notion Platforms** <br> *Comprehensive project management solution with collaborative workspaces and dynamic content organization* | `Next.js 15` `Prisma` `PostgreSQL` | [View Code](https://github.com/Lostovayne/SaaS-Notion-Clone) |
+| **Slack Platforms** <br> *Enterprise-grade communication platform with real-time messaging and team collaboration features* | `Next.js 15` `Socket.io` `Convex` | [View Code](https://github.com/...) |
+| **Trello Platforms** <br> *Advanced project tracking system with customizable workflows and team collaboration tools* | `Next.js 15` `Prisma` `Auth` | [View Code](https://github.com/...) |
+| **Jira Platforms** <br> *Scalable project management system with advanced user management and activity tracking* | `Next.js 15` `Honojs` `Tailwindcss` | [View Code](https://github.com/...) |
+| **Youtube Platform** <br> *Full-featured video sharing platform with advanced content management and user interaction* | `Next.js 15` `AI` `Tailwindcss` `Typescript` `TRPC`  | [View Code](https://github.com/...) |
+| **Google Drive Platform** <br> *Cloud storage solution with advanced file management and sharing capabilities* | `Next.js 15` `AI` `Tailwindcss` `Typescript` `postgresql` `Netlify`  | [View Code](https://github.com/...) |
+| **Discovery Startups** <br> *Comprehensive platform for discovering and connecting with innovative startups* | `Next.js 15` `Sanity` `TypeScript` | [Demo](https://yc-directory-topaz.vercel.app/) |
+| **ShopperPro** <br> *Feature-rich e-commerce platform with secure payment processing and inventory management* | `Next.js` `Stripe` `Sanity` | [Demo](https://shoper-store.vercel.app/) |
+| **MotionCraft** <br> *Immersive web experience showcasing advanced animation and interaction design* | `React 19` `GSAP` `Tailwind` | [Demo](https://winning-web.vercel.app/) |
+| **BlockForge** <br> *Modern blockchain interface with intuitive user experience and secure transaction handling* | `Astro` `React` `Motion` | [Demo](https://dark-blockchain.vercel.app/) |
+| **PingPanda** <br> *Enterprise-grade Discord analytics platform with real-time monitoring and insights* | `Next.js 14` `TypeScript` `Tailwind` `Hono.js` `WebSockets` | [Demo](https://notifydiscord.vercel.app/) |
+| **iPhone Apple Website** <br> *High-fidelity product showcase with advanced 3D animations and responsive design* | `React19` `TypeScript` `Tailwind 4` `Gsap` `ThreeJs` `Cloudflare` | [Demo](https://applewebsite.pages.dev/) |
 
-# Projects that I am passionate about creating
+# Innovation Projects
 | Project Name | Tech Stack | Links |
 |--------------|------------|-------|
-| **Profanity API** <br> *A robust API for filtering profanity in user-generated content* | `Hono.js` `TypeScript` `Serverless Vector` `Upstash` `Cloudflare` | [View Code](https://github.com/Lostovayne/Profanity-Api) |
-| **High-Performance API** <br> *Build a scalable and efficient API with advanced caching strategies* | `Hono.js` `Next.js` `Redis` `Upstash` `Cloudflare` | [Demo](https://github.com/Lostovayne/High-Performance-Api) |
-| **Rate Limiting** <br> *Implementing rate limiting for APIs using Redis and Cloudflare Workers* | `Redis` `Hono.js` `Cloudflare Workers` | [Demo](https://lies-with-hono.epsaind.workers.dev/lies/3) |
-| **Embedding Search** <br> *Implementing Embedding search with Postgresql and Vector Db* | `Next15` `VectorDb` `PostgreSql` `DrizzleOrm` | [Demo](https://search-products-three.vercel.app/) |
+| **Profanity API** <br> *Enterprise-grade content moderation API with advanced filtering algorithms and real-time processing* | `Hono.js` `TypeScript` `Serverless Vector` `Upstash` `Cloudflare` | [View Code](https://github.com/Lostovayne/Profanity-Api) |
+| **High-Performance API** <br> *Optimized API architecture implementing advanced caching strategies and performance optimization* | `Hono.js` `Next.js` `Redis` `Upstash` `Cloudflare` | [Demo](https://github.com/Lostovayne/High-Performance-Api) |
+| **Rate Limiting System** <br> *Sophisticated API rate limiting solution with distributed caching and real-time monitoring* | `Redis` `Hono.js` `Cloudflare Workers` | [Demo](https://lies-with-hono.epsaind.workers.dev/lies/3) |
+| **Embedding Search Engine** <br> *Advanced search system utilizing vector databases for intelligent content discovery* | `Next15` `VectorDb` `PostgreSql` `DrizzleOrm` | [Demo](https://search-products-three.vercel.app/) |
+| **Subscription Management System** <br> *Comprehensive subscription platform with automated billing and user management* | `nodejs` `Typescript` `Mongodb` `worflows` `Docker` | [Demo](https://...) |
+| **University Library Management System** <br> *Enterprise-grade library management solution featuring advanced security, caching, and workflow automation* | `NextJs` `Postgresql` `Redis` `worflows` `AuthJs` `Docker` | [View Code](https://github.com/Lostovayne/University-library-with-dashboard) |
+
 
 ---
 
