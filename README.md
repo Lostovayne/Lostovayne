@@ -90,7 +90,6 @@ A showcase of my most complete and attractive projects, demonstrating my experti
 | **MotionCraft** <br> *Immersive web experience showcasing advanced animation and interaction design* | `React 19` `GSAP` `Tailwind` | [Demo](https://winning-web.vercel.app/) |
 | **BlockForge** <br> *Modern blockchain interface with intuitive user experience and secure transaction handling* | `Astro` `React` `Motion` | [Demo](https://dark-blockchain.vercel.app/) |
 | **PingPanda** <br> *Enterprise-grade Discord analytics platform with real-time monitoring and insights* | `Next.js 14` `TypeScript` `Tailwind` `Hono.js` `WebSockets` | [Demo](https://notifydiscord.vercel.app/) |
-| **iPhone Apple Website** <br> *High-fidelity product showcase with advanced 3D animations and responsive design* | `React19` `TypeScript` `Tailwind 4` `Gsap` `ThreeJs` `Cloudflare` | [Demo](https://applewebsite.pages.dev/) |
 
 # Innovation Projects
 | Project Name | Tech Stack | Links |
