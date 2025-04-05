@@ -48,8 +48,6 @@ I'm a Frontend Developer passionate about creating exceptional web experiences a
 - **GSAP (GreenSock Animation Platform)**  
   Robust animations for enhanced web interactivity and smooth transitions.
 
-- **Framer Motion**  
-  React-based animation library for creating fluid component animations and micro-interactions.
 
 ## Backend
 - **Node.js & NestJS**  
@@ -82,7 +80,7 @@ A showcase of my most complete and attractive projects, demonstrating my experti
 | **Notion Platforms** <br> *Comprehensive project management solution with collaborative workspaces and dynamic content organization* | `Next.js 15` `Prisma` `PostgreSQL` | [View Code](https://github.com/Lostovayne/SaaS-Notion-Clone) |
 | **Slack Platforms** <br> *Enterprise-grade communication platform with real-time messaging and team collaboration features* | `Next.js 15` `Socket.io` `Convex` | [View Code](https://github.com/Lostovayne/SaaS-Replica-de-Slack-completo) |
 | **IA Agent** <br> *Your own complete AI agent including Search and Translation Automation. An Agent capable of executing different tasks autonomously* | `Next.js 15` `Lanchain` `Convex` | [Demo](https://asistai.netlify.app) |
-| **AI interview platform** <br> *A platform that allows users to have real practices and conversations beyond just questions, receiving real feedback.*  |    | [Demo](...) |
+| **AI interview platform** <br> *A platform that allows users to have real practices and conversations beyond just questions, receiving real feedback.*  |`Nextjs 15` `Typescript` `Tailwind 4` | [Demo](https://entrevisai.vercel.app) |
 | **Jira Platforms** <br> *Scalable project management system with advanced user management and activity tracking* | `Next.js 15` `Honojs` `Tailwindcss` | [View Code](https://github.com/Lostovayne/Build-Jira-clone-with-Honojs) |
 | **Youtube Platform** <br> *Full-featured video sharing platform with advanced content management and user interaction* | `Next.js 15` `AI` `Tailwindcss` `Typescript` `TRPC`  | [View Code](https://github.com/Lostovayne/Build-youtube-clone-with-nextjs) |
 | **Google Drive Platform** <br> *Cloud storage solution with advanced file management and sharing capabilities* | `Next.js 15` `AI` `Tailwindcss` `Typescript` `postgresql` `Netlify`  | [View Code](https://github.com/Lostovayne/Build-google-drive-clone) |
