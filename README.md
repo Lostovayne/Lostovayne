@@ -71,7 +71,6 @@ I'm a Frontend Developer passionate about creating exceptional web experiences a
 ### 💻 **Featured Projects**  
 A showcase of my most complete and attractive projects, demonstrating my expertise in building dynamic, scalable, and modern web applications. From creating SaaS platforms and e-commerce systems to high-performance APIs and stunning landing pages, these projects highlight my proficiency in frontend and backend technologies.
 
-// ... (previous content remains unchanged until the Professional Portfolio section) ...
 
 # Professional Portfolio
 | Project Name | Tech Stack | Links |
