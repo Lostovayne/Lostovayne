@@ -22,12 +22,14 @@ I'm a Frontend Developer passionate about creating exceptional web experiences a
 
 ---
 
+
 ## 🛠️ Technology Stack
 
 | Category | Technologies |
 |----------|-------------|
 | **🎨 Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs) |
 | **⚙️ Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?logo=express) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma) ![Django](https://img.shields.io/badge/Django-092E20?logo=django) |
+| **📱 Mobile Development** | ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) |
 | **🗄️ Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white) |
 | **☁️ Cloud & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws) ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white) |
 | **🛠️ Testing & Tools** | ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?logo=testinglibrary&logoColor=white) |
