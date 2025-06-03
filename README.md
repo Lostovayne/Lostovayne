@@ -89,8 +89,7 @@ A showcase of my most complete and attractive projects, demonstrating my experti
 | **ChileanRop** <br> *Feature-rich e-commerce platform with secure payment processing and inventory management* | `Next15` `Tailwind4` `Prisma` `Shadcn` | [Demo](https://ropachilean.vercel.app)
 | **MotionCraft** <br> *Immersive web experience showcasing advanced animation and interaction design* | `React 19` `GSAP` `Tailwind` | [Demo](https://winning-web.vercel.app/) |
 | **BlockForge** <br> *Modern blockchain interface with intuitive user experience and secure transaction handling* | `Astro` `React` `Motion` | [Demo](https://dark-blockchain.vercel.app/) |
-| **PingPanda** <br> *Enterprise-grade Discord analytics platform with real-time monitoring and insights* | `Next.js 14` `TypeScript` `Tailwind` `Hono.js` `WebSockets` | [Demo]
-(https://notifydiscord.vercel.app/) |
+| **PingPanda** <br> *Enterprise-grade Discord analytics platform with real-time monitoring and insights* | `Next.js 14` `TypeScript` `Tailwind` `Hono.js` `WebSockets` | [Demo](https://notifydiscord.vercel.app/) |
 | **DevFlow** <br> *Feature Site, Clon Stack Overflow platform | `Next.js` `Tailwindcss` `Typescript` `postgresql` `Drizzle` | [Demo]()
 
 # Innovation Projects
