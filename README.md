@@ -79,7 +79,7 @@ A showcase of my most complete and attractive projects, demonstrating my experti
 |-------------|------------|-------|
 | **Enterprise Collaboration Suite** <br> *Advanced document management platform with real-time collaboration features and secure document sharing* | `Next.js 15` `TypeScript` `Clerk` `Real-time` | [Demo](https://google-docs-beige.vercel.app/documents/1234) |
 | **Notion Platforms** <br> *Comprehensive project management solution with collaborative workspaces and dynamic content organization* | `Next.js 15` `Prisma` `PostgreSQL` | [View Code](https://github.com/Lostovayne/SaaS-Notion-Clone) |
-| **Slack Platforms** <br> *Enterprise-grade communication platform with real-time messaging and team collaboration features* | `Next.js 15` `Socket.io` `Convex` | [View Code](https://github.com/Lostovayne/SaaS-Replica-de-Slack-completo) |
+| **Screen Recording** <br> *Screen Recording and video sharing platform* | `Next.js 15` `Better-Auth` `Bunny` `Tailwind4` `Drizzle` `Xata` | [Demo](https://sharecording.up.railway.app/) |
 | **AI interview platform** <br> *A platform that allows users to have real practices and conversations beyond just questions, receiving real feedback.*  |`Nextjs 15` `Typescript` `Tailwind 4` | [Demo](https://entrevisai.vercel.app) |
 | **Jira Platforms** <br> *Scalable project management system with advanced user management and activity tracking* | `Next.js 15` `Honojs` `Tailwindcss` | [View Code](https://github.com/Lostovayne/Build-Jira-clone-with-Honojs) |
 | **Youtube Platform** <br> *Full-featured video sharing platform with advanced content management and user interaction* | `Next.js 15` `AI` `Tailwindcss` `Typescript` `TRPC`  | [View Code](https://github.com/Lostovayne/Build-youtube-clone-with-nextjs) |
