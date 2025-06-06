@@ -27,46 +27,12 @@ I'm a Frontend Developer passionate about creating exceptional web experiences a
 
 | Category | Technologies |
 |----------|-------------|
-| **🎨 Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs) |
-| **⚙️ Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?logo=express) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma) ![Django](https://img.shields.io/badge/Django-092E20?logo=django) |
-| **📱 Mobile Development** | ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) |
-| **🗄️ Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white) |
-| **☁️ Cloud & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws) ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white) |
-| **🛠️ Testing & Tools** | ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?logo=testinglibrary&logoColor=white) |
-
-
-# Tech Stack
-
-## Frontend
-- **Next.js & React**  
-  Development of dynamic, fast, and modern applications with server-side rendering capabilities.
-
-- **TailwindCSS**  
-  Responsive design with visually appealing components and utility-first approach.
-
-- **Three.js**  
-  Creating immersive 3D experiences and interactive visualizations.
-
-- **GSAP (GreenSock Animation Platform)**  
-  Robust animations for enhanced web interactivity and smooth transitions.
-
-
-## Backend
-- **Node.js & NestJS**  
-  Building scalable and maintainable APIs with enterprise-grade architecture.
-
-- **Prisma**  
-  Type-safe database operations with intuitive ORM capabilities.
-
-- **Hono**  
-  High-performance, lightweight framework for building microservices and edge computing solutions.
-
-## Cloud & Deployment
-- **Docker**  
-  Containerization for consistent deployments across different environments.
-
-- **Cloudflare, Vercel & Aws**  
-  Global deployments with edge computing, CDN capabilities, and high availability infrastructure.
+| **🎨 Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white) |
+| **⚙️ Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?logo=express) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma) ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-00C4B4?logo=drizzle&logoColor=white) ![Better Auth](https://img.shields.io/badge/Better_Auth-000000?logo=auth0&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
+| **📱 Mobile Development** | ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black) |
+| **🗄️ Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white) |
+| **☁️ Cloud & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws) ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) |
+| **🛠️ Testing & Tools** | ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?logo=testinglibrary&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white) |
 
 ---
 
