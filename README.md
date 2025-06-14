@@ -56,18 +56,8 @@ A showcase of my most complete and attractive projects, demonstrating my experti
 | **MotionCraft** <br> *Immersive web experience showcasing advanced animation and interaction design* | `React 19` `GSAP` `Tailwind` | [Demo](https://winning-web.vercel.app/) |
 | **BlockForge** <br> *Modern blockchain interface with intuitive user experience and secure transaction handling* | `Astro` `React` `Motion` | [Demo](https://dark-blockchain.vercel.app/) |
 | **PingPanda** <br> *Enterprise-grade Discord analytics platform with real-time monitoring and insights* | `Next.js 14` `TypeScript` `Tailwind` `Hono.js` `WebSockets` | [Demo](https://notifydiscord.vercel.app/) |
-| **DevFlow** <br> *Feature Site, Clon Stack Overflow platform | `Next.js` `Tailwindcss` `Typescript` `postgresql` `Drizzle` | [Demo](https://dev-platform.netlify.app/)
-
-# Innovation Projects
-| Project Name | Tech Stack | Links |
-|--------------|------------|-------|
-| **Profanity API** <br> *Enterprise-grade content moderation API with advanced filtering algorithms and real-time processing* | `Hono.js` `TypeScript` `Serverless Vector` `Upstash` `Cloudflare` | [View Code](https://github.com/Lostovayne/Profanity-Api) |
-| **High-Performance API** <br> *Optimized API architecture implementing advanced caching strategies and performance optimization* | `Hono.js` `Next.js` `Redis` `Upstash` `Cloudflare` | [Demo](https://github.com/Lostovayne/High-Performance-Api) |
-| **Rate Limiting System** <br> *Sophisticated API rate limiting solution with distributed caching and real-time monitoring* | `Redis` `Hono.js` `Cloudflare Workers` | [Demo](https://lies-with-hono.epsaind.workers.dev/lies/3) |
-| **Embedding Search Engine** <br> *Advanced search system utilizing vector databases for intelligent content discovery* | `Next15` `VectorDb` `PostgreSql` `DrizzleOrm` | [Demo](https://search-products-three.vercel.app/) |
-| **Subscription Management System** <br> *Comprehensive subscription platform with automated billing and user management* | `nodejs` `Typescript` `Mongodb` `Worflows` `Docker` | [View Code](https://github.com/Lostovayne/Tracker-suscription-with-workflows) |
+| **DevFlow** <br> *Feature Site, Clon Stack Overflow platform | `Next.js` `Tailwindcss` `Typescript` `postgresql` `Drizzle` | [Demo](https://dev-platform.netlify.app/) | 
 | **University Library Management System** <br> *Enterprise-grade library management solution featuring advanced security, caching, and workflow automation* | `NextJs` `Postgresql` `Redis` `worflows` `AuthJs` `Docker` | [View Code](https://github.com/Lostovayne/University-library-with-dashboard) |
-
 
 ---
 
