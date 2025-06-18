@@ -1,27 +1,26 @@
-# <div align="center">
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&random=false&width=1000&height=100&lines=Franko+Barrera;Full+Stack+Developer+%26+Frontend+Web+Developer;Building+Modern+%26+Scalable+Solutions" alt="Typing SVG" />
-</h1>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
-</div>
+  <h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&random=false&width=1000&height=100&lines=Franko+Barrera;Full+Stack+Developer+%26+Frontend+Web+Developer;Building+Modern+%26+Scalable+Solutions" alt="Typing SVG" />
+  </h1>
 
-<div align="center">
-  <blockquote>
-    <em>"La confusión es parte de la programación, la persistencia es la clave del éxito."</em>
-  </blockquote>
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
+  </div>
+
+  <div align="center">
+    <blockquote>
+      <em>"Confusion is part of programming; persistence is the key to success."</em>
+    </blockquote>
+  </div>
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a Frontend Developer passionate about creating exceptional web experiences and pixel-perfect interfaces. I specialize in React.js and Next.js, focusing on responsive design, accessibility, and performance. I build scalable, maintainable components, implement complex UIs, and deliver seamless, high-quality code. Skilled in web performance, SEO, and cross-browser compatibility, I aim to create intuitive, functional, and accessible interfaces while staying updated on the latest frontend trends.
+I'm a **Full Stack Developer** with a strong focus on **Frontend Web Development**, passionate about crafting exceptional web experiences and pixel-perfect interfaces. My expertise lies in **React.js** and **Next.js**, where I prioritize **responsive design**, **accessibility**, and **performance**. I excel at building scalable, maintainable components, implementing complex UIs, and delivering seamless, high-quality code. I am also skilled in web performance optimization, SEO best practices, and cross-browser compatibility, always aiming to create intuitive, functional, and accessible applications. I stay current with the latest frontend and backend trends to ensure I'm always building with cutting-edge solutions.
 
 ---
-
 
 ## 🛠️ Technology Stack
 
@@ -36,43 +35,41 @@ I'm a Frontend Developer passionate about creating exceptional web experiences a
 
 ---
 
-### 💻 **Featured Projects**  
-A showcase of my most complete and attractive projects, demonstrating my expertise in building dynamic, scalable, and modern web applications. From creating SaaS platforms and e-commerce systems to high-performance APIs and stunning landing pages, these projects highlight my proficiency in frontend and backend technologies.
+### 💻 **Featured Projects**
 
+A curated selection of my most complete and impactful projects, showcasing my expertise in building dynamic, scalable, and modern web applications. From creating SaaS platforms and e-commerce systems to high-performance APIs and stunning landing pages, these projects highlight my proficiency in both frontend and backend technologies.
 
-# Professional Portfolio
-| Project Name | Tech Stack | Links |
-|-------------|------------|-------|
-| **Enterprise Collaboration Suite** <br> *Advanced document management platform with real-time collaboration features and secure document sharing* | `Next.js 15` `TypeScript` `Clerk` `Real-time` | [Demo](https://google-docs-beige.vercel.app/documents/1234) |
-| **Notion Platforms** <br> *Comprehensive project management solution with collaborative workspaces and dynamic content organization* | `Next.js 15` `Prisma` `PostgreSQL` | [View Code](https://github.com/Lostovayne/SaaS-Notion-Clone) |
-| **Screen Recording** <br> *Screen Recording and video sharing platform* | `Next.js 15` `Better-Auth` `Bunny` `Tailwind4` `Drizzle` `Xata` | [Demo](https://sharecording.up.railway.app/) |
-| **AI interview platform** <br> *A platform that allows users to have real practices and conversations beyond just questions, receiving real feedback.*  |`Nextjs 15` `Typescript` `Tailwind 4` | [Demo](https://entrevisai.vercel.app) |
-| **Jira Platforms** <br> *Scalable project management system with advanced user management and activity tracking* | `Next.js 15` `Honojs` `Tailwindcss` | [View Code](https://github.com/Lostovayne/Build-Jira-clone-with-Honojs) |
-| **Youtube Platform** <br> *Full-featured video sharing platform with advanced content management and user interaction* | `Next.js 15` `AI` `Tailwindcss` `Typescript` `TRPC`  | [View Code](https://github.com/Lostovayne/Build-youtube-clone-with-nextjs) |
-| **Google Drive Platform** <br> *Cloud storage solution with advanced file management and sharing capabilities* | `Next.js 15` `AI` `Tailwindcss` `Typescript` `postgresql` `Netlify`  | [View Code](https://github.com/Lostovayne/Build-google-drive-clone) |
-| **Discovery Startups** <br> *Comprehensive platform for discovering and connecting with innovative startups* | `Next.js 15` `Sanity` `TypeScript` | [Demo](https://yc-directory-topaz.vercel.app/) |
-| **ShopperPro** <br> *Feature-rich e-commerce platform with secure payment processing and inventory management* | `Next.js` `Stripe` `Sanity` | [Demo](https://shoper-store.vercel.app/) |
-| **ChileanRop** <br> *Feature-rich e-commerce platform with secure payment processing and inventory management* | `Next15` `Tailwind4` `Prisma` `Shadcn` | [Demo](https://ropachilean.vercel.app)
-| **MotionCraft** <br> *Immersive web experience showcasing advanced animation and interaction design* | `React 19` `GSAP` `Tailwind` | [Demo](https://winning-web.vercel.app/) |
-| **BlockForge** <br> *Modern blockchain interface with intuitive user experience and secure transaction handling* | `Astro` `React` `Motion` | [Demo](https://dark-blockchain.vercel.app/) |
-| **PingPanda** <br> *Enterprise-grade Discord analytics platform with real-time monitoring and insights* | `Next.js 14` `TypeScript` `Tailwind` `Hono.js` `WebSockets` | [Demo](https://notifydiscord.vercel.app/) |
-| **DevFlow** <br> *Feature Site, Clon Stack Overflow platform | `Next.js` `Tailwindcss` `Typescript` `postgresql` `Drizzle` | [Demo](https://dev-platform.netlify.app/) | 
-| **University Library Management System** <br> *Enterprise-grade library management solution featuring advanced security, caching, and workflow automation* | `NextJs` `Postgresql` `Redis` `worflows` `AuthJs` `Docker` | [View Code](https://github.com/Lostovayne/University-library-with-dashboard) |
+---
+
+### Professional Portfolio
+
+| Project Name | Description | Tech Stack | Links |
+|---|---|---|---|
+| **Enterprise Collaboration Suite** | An advanced document management platform featuring real-time collaboration, secure document sharing, and robust version control for seamless team productivity. | `Next.js 15`, `TypeScript`, `Clerk`, `Real-time` | [Demo](https://google-docs-beige.vercel.app/documents/1234) |
+| **Screen Recording & Sharing Platform** | A comprehensive platform for high-quality screen recording and efficient video sharing, designed for seamless content creation and distribution. | `Next.js 15`, `Better-Auth`, `Bunny`, `Tailwind 4`, `Drizzle`, `Xata` | [Demo](https://sharecording.up.railway.app/) |
+| **AI Interview Simulation Platform** | An innovative platform enabling users to engage in realistic interview practices with AI-powered conversations, providing actionable feedback for improvement. | `Next.js 15`, `TypeScript`, `Tailwind 4`, `Firebase`, `Workflows` | [Demo](https://entrevisai.vercel.app) |
+| **Full-Featured YouTube Clone** | A robust video sharing platform with advanced content management features, interactive user engagement tools, and a polished UI inspired by YouTube. | `Next.js 15`, `AI Workflows`, `TailwindCSS`, `TypeScript`, `TRPC` | [View Code](https://github.com/Lostovayne/Build-youtube-clone-with-nextjs) |
+| **Startup Discovery Platform** | A comprehensive platform for discovering, connecting with, and exploring innovative startups, facilitating networking and investment opportunities. | `Next.js 15`, `Sanity`, `TypeScript` | [Demo](https://yc-directory-topaz.vercel.app/) |
+| **ShopperPro E-commerce Platform** | A feature-rich e-commerce solution offering secure payment processing, intuitive inventory management, and a seamless shopping experience. | `Next.js`, `Stripe`, `Sanity` | [Demo](https://shoper-store.vercel.app/) |
+| **ChileanRop E-commerce Platform** | A modern e-commerce platform built for the Chilean market, providing secure payment processing, efficient inventory management, and a user-friendly interface. | `Next.js 15`, `Tailwind 4`, `Prisma`, `Shadcn` | [Demo](https://ropachilean.vercel.app) |
+| **MotionCraft Web Experience** | An immersive web experience showcasing cutting-edge animation and interaction design, delivering a highly engaging and visually stunning user journey. | `React 19`, `GSAP`, `Tailwind` | [Demo](https://winning-web.vercel.app/) |
+| **BlockForge Blockchain Interface** | A modern blockchain interface featuring an intuitive user experience and secure transaction handling, designed for clarity and ease of use in decentralized applications. | `Astro`, `React`, `Motion` | [Demo](https://dark-blockchain.vercel.app/) |
+| **PingPanda Discord Analytics** | An enterprise-grade Discord analytics platform providing real-time monitoring, insightful data visualizations, and advanced reporting for community management. | `Next.js 14`, `TypeScript`, `Tailwind`, `Hono.js`, `WebSockets` | [Demo](https://notifydiscord.vercel.app/) |
+| **DevFlow Stack Overflow Clone** | A feature-rich platform mirroring the functionality of Stack Overflow, designed for developers to ask questions, share knowledge, and collaborate. | `Next.js`, `TailwindCSS`, `TypeScript`, `PostgreSQL`, `Drizzle`, `MongoDB`, `Zod` | [Demo](https://dev-platform.netlify.app/) |
+| **University Library Management System** | An enterprise-grade library management solution featuring advanced security, efficient caching, and robust workflow automation for streamlined operations. | `Next.js`, `PostgreSQL`, `Redis`, `Workflows`, `Auth.js`, `Docker` | [View Code](https://github.com/Lostovayne/University-library-with-dashboard) |
+| **Enterprise Property Rental Application** | A scalable enterprise application for property rentals, equipped with secure authentication, cloud storage, and geospatial mapping for comprehensive property management. | `Next.js`, `AWS Cognito`, `AWS S3`, `Mapbox`, `PostgreSQL` | [View Code]() |
 
 ---
 
 #### 👨‍🚀 **Let's Connect**
 
-If you're looking for a frontend developer who is passionate about modern web technologies, building scalable systems, and delivering polished user experiences, feel free to reach out!  
+If you're seeking a **Full Stack Developer** passionate about modern web technologies, building scalable systems, and delivering polished user experiences, feel free to reach out!
 
-📧 **Email**: ["]  
-🐦 **Twitter**: [@Play10Never](https://x.com/Play10Never)  
-🔗 **LinkedIn**: [LinkedIn](https://www.linkedin.com/franco-barrera-riffo/)
+🐦 **Twitter**: [@Play10Never](https://x.com/Play10Never)
+🔗 **LinkedIn**: [Franco Barrera Riffo](https://www.linkedin.com/franco-barrera-riffo/)
 
 ---
 
-
-
 <div align="center">
-  <sub>💼 Abierto a oportunidades laborales | 🤝 Disponible para colaboraciones</sub>
+  <sub>💼 Open to work opportunities | 🤝 Available for collaborations</sub>
 </div>
