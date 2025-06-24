@@ -57,7 +57,7 @@ A curated selection of my most complete and impactful projects, showcasing my ex
 | **PingPanda Discord Analytics** | An enterprise-grade Discord analytics platform providing real-time monitoring, insightful data visualizations, and advanced reporting for community management. | `Next.js 14`, `TypeScript`, `Tailwind`, `Hono.js`, `WebSockets` | [Demo](https://notifydiscord.vercel.app/) |
 | **DevFlow Stack Overflow Clone** | A feature-rich platform mirroring the functionality of Stack Overflow, designed for developers to ask questions, share knowledge, and collaborate. | `Next.js`, `TailwindCSS`, `TypeScript`, `PostgreSQL`, `Drizzle`, `MongoDB`, `Zod` | [Demo](https://dev-platform.netlify.app/) |
 | **University Library Management System** | An enterprise-grade library management solution featuring advanced security, efficient caching, and robust workflow automation for streamlined operations. | `Next.js`, `PostgreSQL`, `Redis`, `Workflows`, `Auth.js`, `Docker` | [View Code](https://github.com/Lostovayne/University-library-with-dashboard) |
-| **Enterprise Property Rental Application** | A scalable enterprise application for property rentals, equipped with secure authentication, cloud storage, and geospatial mapping for comprehensive property management. | `Next.js`, `AWS Cognito`, `AWS S3`, `Mapbox`, `PostgreSQL` | [View Code]() |
+| **Enterprise Property Rental Application** | A scalable enterprise application for property rentals, equipped with secure authentication, cloud storage, and geospatial mapping for comprehensive property management. | `Next.js`, `AWS Cognito`, `AWS S3`, `Mapbox`, `PostgreSQL` | [View Code](https://github.com/Lostovayne/rental-enterprice-app) |
 
 ---
 
