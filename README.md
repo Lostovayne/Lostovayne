@@ -48,7 +48,7 @@ This portfolio showcases a selection of full-stack applications and digital expe
 | **MotionCraft Web Experience** | Visually stunning web experience with dynamic animation and immersive design. | `React 19`, `GSAP`, `Tailwind` | [Live Demo](https://winning-web.vercel.app/) |
 | **BlockForge Blockchain Interface** | Clean and intuitive blockchain app interface with modern UI and secure flows. | `Astro`, `React`, `Motion` | [Live Demo](https://dark-blockchain.vercel.app/) |
 | **PingPanda Discord Analytics** | Real-time Discord analytics dashboard with powerful insights and WebSocket-powered stats. | `Next.js 14`, `TypeScript`, `Tailwind`, `Hono.js`, `WebSockets` | [Live Demo](https://notifydiscord.vercel.app/) |
-| **Lovable Clone** | UI clone of Lovable featuring modern component architecture and data flow. | `Next.js 15`, `Zod`, `Tailwind`, `Inngest`, `Prisma`, `Clerk` | *(Link coming soon)* |
+| **Lovable Clone** | UI clone of Lovable featuring modern component architecture and data flow. | `Next.js 15`, `Zod`, `Tailwind`, `Inngest`, `Prisma`, `Clerk` | [Live Demo](https://github.com/Lostovayne/Complete-Clone-Lovable-AI) |
 | **University Library Management System** | Enterprise library system with advanced security, caching, and workflow automation. | `Next.js`, `PostgreSQL`, `Redis`, `Workflows`, `Auth.js`, `Docker` | [View Code](https://github.com/Lostovayne/University-library-with-dashboard) |
 | **Enterprise Property Rental Application** | Full-featured rental platform with geolocation, cloud storage, and secure auth. | `Next.js`, `AWS Cognito`, `AWS S3`, `Mapbox`, `PostgreSQL` | [View Code](https://github.com/Lostovayne/rental-enterprice-app) |
 
