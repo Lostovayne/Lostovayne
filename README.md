@@ -38,7 +38,7 @@ This portfolio showcases a selection of full-stack applications and digital expe
 
 | 🧩 Project | 💬 Description | 🛠️ Tech Stack | 🔗 Links |
 |---|---|---|---|
-| **Enterprise Collaboration Suite** | Advanced document management with real-time collaboration, secure sharing, and version control. | `Next.js 15`, `TypeScript`, `Clerk`, `Real-time` | [Live Demo](https://google-docs-beige.vercel.app/documents/1234) |
+| **Meet AI Platform** | A complete platform to learn using AI, have conversations, and progress through courses. | `Next.js 15`, `TypeScript`, `Better Auth`, `Polar`, `AI Agents` | [Live Demo](https://github.com/Lostovayne/Complete-Clone-Meet-Ai-Platform) |
 | **Screen Recording & Sharing Platform** | High-quality screen recording and video sharing platform for content creators. | `Next.js 15`, `Better-Auth`, `Bunny`, `Tailwind 4`, `Drizzle`, `Xata` | [Live Demo](https://sharecording.up.railway.app/) |
 | **AI Interview Simulation Platform** | Simulates real interview scenarios with AI-generated questions and feedback. | `Next.js 15`, `TypeScript`, `Tailwind 4`, `Firebase`, `Workflows` | [Live Demo](https://entrevisai.vercel.app) |
 | **Full-Featured YouTube Clone** | Robust video platform with user interactions and YouTube-inspired UI. | `Next.js 15`, `AI Workflows`, `TailwindCSS`, `TypeScript`, `TRPC` | [View Code](https://github.com/Lostovayne/Build-youtube-clone-with-nextjs) |
