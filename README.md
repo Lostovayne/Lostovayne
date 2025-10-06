@@ -129,71 +129,7 @@ graph TB
 </tr>
 </table>
 
----
 
-## 🌱 Currently Learning & Improving
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60"/>
-      <br><strong>Kubernetes</strong>
-      <br><sub>Container Orchestration</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60"/>
-      <br><strong>Terraform</strong>
-      <br><sub>Infrastructure as Code</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
-      <br><strong>AWS & Azure</strong>
-      <br><sub>Cloud Architecture</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60"/>
-      <br><strong>Google Cloud</strong>
-      <br><sub>Cloud Platform Services</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="60"/>
-      <br><strong>Heroku</strong>
-      <br><sub>Platform as a Service</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" width="60"/>
-      <br><strong>Digital Ocean</strong>
-      <br><sub>Cloud Infrastructure</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🎯 What I Bring to the Table
-
-```typescript
-const franco = {
-  role: "Full Stack Developer",
-  code: ["TypeScript", "JavaScript", "Python"],
-  focus: "Building scalable cloud-native applications",
-  
-  expertise: {
-    frontend: ["Next.js", "React", "Tailwind CSS"],
-    backend: ["Node.js", "NestJS", "Prisma"],
-    devOps: ["Docker", "Kubernetes", "Terraform"],
-    cloud: ["AWS", "Azure", "Google Cloud", "Heroku", "Digital Ocean"],
-    architecture: ["Clean Architecture", "Microservices", "DDD"]
-  },
-  
-  currentlyLearning: ["Kubernetes", "Terraform", "Multi-Cloud Architecture"],
-  availableFor: ["Full-time opportunities", "Freelance projects", "Technical collaborations"]
-};
-```
-
----
 
 ## 📫 Let's Connect!
 
