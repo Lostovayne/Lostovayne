@@ -65,26 +65,6 @@ Docker • Kubernetes • AWS • Azure
 
 </div>
 
-
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-### 💼 Open to Work | 🤝 Available for Collaborations
-
-**I'm passionate about:**
-- 🚀 Building **scalable** and **performant** applications
-- ☁️ Implementing **modern DevOps** practices and cloud solutions
-- 🏗️ Designing **clean architectures** following best practices
-- 📚 Continuous learning and **staying updated** with emerging technologies
-
-<br/>
-
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Play10Never)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-barrera-riffo/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
