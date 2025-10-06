@@ -28,66 +28,102 @@
 
 ## 🛠️ Tech Stack
 
-### Frontend Development
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+<table>
+<tr>
+<td align="center" width="25%">
+<h3>⚛️ Frontend</h3>
+<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind" />
+<br/><br/>
+Next.js • React • TypeScript • Tailwind
+</td>
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-FF6600?style=for-the-badge&logo=hono&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+<td align="center" width="25%">
+<h3>⚙️ Backend</h3>
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma" />
+<br/><br/>
+Node.js • NestJS • Express • Prisma
+</td>
 
-### Database & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+<td align="center" width="25%">
+<h3>🗄️ Database</h3>
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase" />
+<br/><br/>
+PostgreSQL • MongoDB • Redis • Supabase
+</td>
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<td align="center" width="25%">
+<h3>☁️ DevOps & Cloud</h3>
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure" />
+<br/><br/>
+Docker • Kubernetes • AWS • Azure
+</td>
+</tr>
+</table>
 
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<div align="center">
+
+**Also working with:** Terraform • CI/CD • GitHub Actions • Vercel • tRPC • Hono • Drizzle • Sanity
+
+</div>
 
 ---
 
 ## 🏗️ Architecture & Best Practices
 
+<div align="center">
+
 ```mermaid
-graph LR
+graph TB
     A[Clean Architecture] --> B[SOLID Principles]
     A --> C[Design Patterns]
     A --> D[Domain Driven Design]
-    B --> E[Microservices]
+    B --> E[Scalable Applications]
     C --> E
     D --> E
-    E --> F[Cloud Native Apps]
+    E --> F[Microservices]
+    F --> G[Cloud Native]
+    style A fill:#3B82F6
+    style E fill:#10B981
+    style G fill:#8B5CF6
 ```
 
-### Core Principles I Follow:
-- ✅ **Clean Architecture** - Separation of concerns and maintainable code
-- ✅ **SOLID Principles** - Object-oriented design best practices
-- ✅ **Design Patterns** - Factory, Repository, Strategy, Observer, and more
-- ✅ **Domain Driven Design (DDD)** - Business logic first approach
-- ✅ **Test Driven Development (TDD)** - Reliable and tested code
-- ✅ **Microservices Architecture** - Scalable and distributed systems
-- ✅ **CI/CD Pipelines** - Automated testing and deployment
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🎯 Design Principles
+- ✅ SOLID Principles
+- ✅ Clean Architecture
+- ✅ Domain Driven Design
+- ✅ Test Driven Development
+
+</td>
+<td width="33%" valign="top">
+
+### 🔧 Patterns & Practices
+- ✅ Repository Pattern
+- ✅ Factory Pattern
+- ✅ Strategy Pattern
+- ✅ Microservices Architecture
+
+</td>
+<td width="33%" valign="top">
+
+### 🚀 Modern Development
+- ✅ CI/CD Automation
+- ✅ Container Orchestration
+- ✅ Infrastructure as Code
+- ✅ Cloud Native Apps
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -98,34 +134,34 @@ graph LR
     <td align="center" width="33%">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60"/>
       <br><strong>Kubernetes</strong>
-      <br>Container Orchestration
+      <br><sub>Container Orchestration</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60"/>
       <br><strong>Terraform</strong>
-      <br>Infrastructure as Code
+      <br><sub>Infrastructure as Code</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
       <br><strong>AWS & Azure</strong>
-      <br>Cloud Architecture
+      <br><sub>Cloud Architecture</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/>
       <br><strong>Docker</strong>
-      <br>Containerization
+      <br><sub>Containerization</sub>
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/github/explore/main/topics/actions/actions.png" width="60"/>
       <br><strong>CI/CD</strong>
-      <br>Automation & Deployment
+      <br><sub>Automation & Deployment</sub>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="60"/>
       <br><strong>NestJS</strong>
-      <br>Enterprise Backend
+      <br><sub>Enterprise Backend</sub>
     </td>
   </tr>
 </table>
@@ -342,11 +378,9 @@ Enterprise-grade rental platform with geolocation, cloud storage (AWS S3), and A
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lostovayne&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff)
+  <img src="https://github-readme-stats.vercel.app/api?username=Lostovayne&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff" alt="GitHub Stats" />
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lostovayne&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=ffffff)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lostovayne&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lostovayne&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
 
 </div>
 
@@ -356,17 +390,20 @@ Enterprise-grade rental platform with geolocation, cloud storage (AWS S3), and A
 
 ```typescript
 const franco = {
+  role: "Full Stack Developer",
   code: ["TypeScript", "JavaScript", "Python"],
-  technologies: {
-    frontend: ["Next.js", "React", "Tailwind CSS", "Astro"],
-    backend: ["Node.js", "NestJS", "tRPC", "Hono"],
-    databases: ["PostgreSQL", "MongoDB", "Redis"],
-    devOps: ["Docker", "Kubernetes", "Terraform", "GitHub Actions"],
-    cloud: ["AWS", "Azure", "Vercel"],
-    architecture: ["Microservices", "Clean Architecture", "DDD", "SOLID"]
+  focus: "Building scalable cloud-native applications",
+  
+  expertise: {
+    frontend: ["Next.js", "React", "Tailwind CSS"],
+    backend: ["Node.js", "NestJS", "Prisma"],
+    devOps: ["Docker", "Kubernetes", "Terraform"],
+    cloud: ["AWS", "Azure"],
+    architecture: ["Clean Architecture", "Microservices", "DDD"]
   },
-  currentFocus: "Building scalable cloud-native applications",
-  funFact: "I debug with console.log and I'm not ashamed 😄"
+  
+  currentlyLearning: ["Kubernetes", "Terraform", "Cloud Architecture"],
+  availableFor: ["Full-time opportunities", "Freelance projects", "Technical collaborations"]
 };
 ```
 
@@ -378,20 +415,22 @@ const franco = {
 
 ### 💼 Open to Work | 🤝 Available for Collaborations
 
-If you're looking for a **Full Stack Developer** who is passionate about:
+**I'm passionate about:**
 - 🚀 Building **scalable** and **performant** applications
-- ☁️ Implementing **modern DevOps** practices
-- 🏗️ Designing **clean architectures** with best practices
-- 📚 Continuous learning and **staying updated** with latest technologies
+- ☁️ Implementing **modern DevOps** practices and cloud solutions
+- 🏗️ Designing **clean architectures** following best practices
+- 📚 Continuous learning and **staying updated** with emerging technologies
 
-**Let's build something amazing together!**
+<br/>
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Play10Never)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-barrera-riffo/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
+<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-**⭐ From [Lostovayne](https://github.com/Lostovayne) with 💙**
+**⭐ From [Lostovayne](https://github.com/Lostovayne) | Building the future, one commit at a time 💙**
 
 </div>
