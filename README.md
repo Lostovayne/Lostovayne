@@ -90,7 +90,7 @@ graph TB
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 ### 🎯 Design Principles
 - ✅ SOLID Principles
@@ -99,7 +99,7 @@ graph TB
 - ✅ Test Driven Development
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 ### 🔧 Patterns & Practices
 - ✅ Repository Pattern
@@ -108,13 +108,22 @@ graph TB
 - ✅ Microservices Architecture
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 ### 🚀 Modern Development
 - ✅ CI/CD Automation
 - ✅ Container Orchestration
 - ✅ Infrastructure as Code
 - ✅ Cloud Native Apps
+
+</td>
+<td width="25%" valign="top">
+
+### 💡 Cloud Platforms
+- ✅ Multi-Cloud Deployment
+- ✅ Serverless Architecture
+- ✅ Cloud Optimization
+- ✅ Scalability & Performance
 
 </td>
 </tr>
@@ -144,19 +153,19 @@ graph TB
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/>
-      <br><strong>Docker</strong>
-      <br><sub>Containerization</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60"/>
+      <br><strong>Google Cloud</strong>
+      <br><sub>Cloud Platform Services</sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/actions/actions.png" width="60"/>
-      <br><strong>CI/CD</strong>
-      <br><sub>Automation & Deployment</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="60"/>
+      <br><strong>Heroku</strong>
+      <br><sub>Platform as a Service</sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="60"/>
-      <br><strong>NestJS</strong>
-      <br><sub>Enterprise Backend</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" width="60"/>
+      <br><strong>Digital Ocean</strong>
+      <br><sub>Cloud Infrastructure</sub>
     </td>
   </tr>
 </table>
@@ -175,11 +184,11 @@ const franco = {
     frontend: ["Next.js", "React", "Tailwind CSS"],
     backend: ["Node.js", "NestJS", "Prisma"],
     devOps: ["Docker", "Kubernetes", "Terraform"],
-    cloud: ["AWS", "Azure"],
+    cloud: ["AWS", "Azure", "Google Cloud", "Heroku", "Digital Ocean"],
     architecture: ["Clean Architecture", "Microservices", "DDD"]
   },
   
-  currentlyLearning: ["Kubernetes", "Terraform", "Cloud Architecture"],
+  currentlyLearning: ["Kubernetes", "Terraform", "Multi-Cloud Architecture"],
   availableFor: ["Full-time opportunities", "Freelance projects", "Technical collaborations"]
 };
 ```
