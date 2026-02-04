@@ -44,9 +44,9 @@ Node.js • NestJS • Express • Prisma
 <td align="center" width="25%">
 <h3>🗄️ Database</h3>
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,rabbitmq" />
 <br/><br/>
-PostgreSQL • MongoDB • Redis • Supabase
+PostgreSQL • MongoDB • Redis • RabbitMQ
 </td>
 
 <td align="center" width="25%">
