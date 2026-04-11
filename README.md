@@ -36,9 +36,9 @@ Next.js • React • TypeScript • Tailwind
 <td align="center" width="25%">
 <h3>⚙️ Backend</h3>
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,golang" />
 <br/><br/>
-Node.js • NestJS • Express • Prisma
+Node.js • NestJS • Express • Golang
 </td>
 
 <td align="center" width="25%">
@@ -61,7 +61,7 @@ Docker • Kubernetes • AWS • Azure
 
 <div align="center">
 
-**Also working with:** Terraform • CI/CD • GitHub Actions • Vercel • tRPC • Hono • Drizzle • Sanity
+**Also working with:** Terraform • CI/CD • GitHub Actions • Arch Linux • Vps • Hono • Drizzle • Nginx
 
 </div>
 
