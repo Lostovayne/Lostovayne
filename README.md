@@ -52,9 +52,9 @@ PostgreSQL • MongoDB • Redis • RabbitMQ
 <td align="center" width="25%">
 <h3>☁️ DevOps & Cloud</h3>
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure" />
+<img src="https://skillicons.dev/icons?i=docker,terraform,aws,azure" />
 <br/><br/>
-Docker • Kubernetes • AWS • Azure
+Docker • Terraform • AWS • Azure
 </td>
 </tr>
 </table>
